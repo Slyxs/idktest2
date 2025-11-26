@@ -1,0 +1,213 @@
+{
+	"Version": 3,
+	"Parameters": [
+		{
+			"Id": "ParamHairFront",
+			"GroupId": "ParamGroup",
+			"Name": "髪揺れ　前"
+		},
+		{
+			"Id": "ParamHairSide",
+			"GroupId": "ParamGroup",
+			"Name": "髪揺れ　横"
+		},
+		{
+			"Id": "ParamHairBack",
+			"GroupId": "ParamGroup",
+			"Name": "髪揺れ　後"
+		},
+		{
+			"Id": "ParamAngleX",
+			"GroupId": "",
+			"Name": "角度 X"
+		},
+		{
+			"Id": "ParamBrowRY",
+			"GroupId": "",
+			"Name": "困り驚き顔"
+		},
+		{
+			"Id": "ParamEyeROpen",
+			"GroupId": "",
+			"Name": "笑顔"
+		},
+		{
+			"Id": "ParamAngleY",
+			"GroupId": "",
+			"Name": "角度 Y"
+		},
+		{
+			"Id": "ParamAngleZ",
+			"GroupId": "",
+			"Name": "角度 Z"
+		},
+		{
+			"Id": "ParamMouthForm",
+			"GroupId": "",
+			"Name": "口変形"
+		},
+		{
+			"Id": "ParamMouthOpenY",
+			"GroupId": "",
+			"Name": "口開閉"
+		},
+		{
+			"Id": "ParamEyeBallX",
+			"GroupId": "",
+			"Name": "目玉 X"
+		},
+		{
+			"Id": "ParamEyeBallY",
+			"GroupId": "",
+			"Name": "目玉 Y"
+		},
+		{
+			"Id": "Paramwingmotion",
+			"GroupId": "ParamGroup2",
+			"Name": "羽動"
+		},
+		{
+			"Id": "Paramheart",
+			"GroupId": "ParamGroup2",
+			"Name": "ハート"
+		},
+		{
+			"Id": "Paramatere",
+			"GroupId": "ParamGroup2",
+			"Name": "照れ"
+		},
+		{
+			"Id": "Paramnamida",
+			"GroupId": "ParamGroup2",
+			"Name": "涙"
+		},
+		{
+			"Id": "Paramoko",
+			"GroupId": "ParamGroup2",
+			"Name": "怒"
+		},
+		{
+			"Id": "Paramoff",
+			"GroupId": "ParamGroup2",
+			"Name": "OFF"
+		},
+		{
+			"Id": "Paramgyu",
+			"GroupId": "ParamGroup2",
+			"Name": "\u003E\u003C"
+		},
+		{
+			"Id": "Paramyami",
+			"GroupId": "ParamGroup2",
+			"Name": "闇"
+		},
+		{
+			"Id": "Param",
+			"GroupId": "",
+			"Name": "羽"
+		},
+		{
+			"Id": "Paramribon",
+			"GroupId": "",
+			"Name": "りぼんゆれ"
+		},
+		{
+			"Id": "ParamBreath",
+			"GroupId": "",
+			"Name": "呼吸"
+		},
+		{
+			"Id": "Paramskirt",
+			"GroupId": "",
+			"Name": "スカート"
+		},
+		{
+			"Id": "Paramhilight",
+			"GroupId": "",
+			"Name": "ハイライト"
+		}
+	],
+	"ParameterGroups": [
+		{
+			"Id": "ParamGroup",
+			"GroupId": "",
+			"Name": "髪"
+		},
+		{
+			"Id": "ParamGroup3",
+			"GroupId": "",
+			"Name": "表情"
+		},
+		{
+			"Id": "ParamGroup2",
+			"GroupId": "",
+			"Name": "その他"
+		}
+	],
+	"Parts": [
+		{
+			"Id": "Part15",
+			"Name": "デフォーマ"
+		},
+		{
+			"Id": "Part14",
+			"Name": "表情"
+		},
+		{
+			"Id": "Part8",
+			"Name": "furan.psd"
+		},
+		{
+			"Id": "Part16",
+			"Name": "羽"
+		},
+		{
+			"Id": "Part11",
+			"Name": "羽"
+		},
+		{
+			"Id": "Part",
+			"Name": "口内"
+		},
+		{
+			"Id": "Part9",
+			"Name": "その他"
+		},
+		{
+			"Id": "Part3",
+			"Name": "まえがみ"
+		},
+		{
+			"Id": "Part4",
+			"Name": "よこかみ"
+		},
+		{
+			"Id": "Part10",
+			"Name": "め"
+		},
+		{
+			"Id": "Part5",
+			"Name": "りんかく"
+		},
+		{
+			"Id": "Part6",
+			"Name": "うしろかみ"
+		},
+		{
+			"Id": "Part7",
+			"Name": "上半身"
+		},
+		{
+			"Id": "Part12",
+			"Name": "下半身"
+		},
+		{
+			"Id": "Part13",
+			"Name": "身体"
+		},
+		{
+			"Id": "Part2",
+			"Name": "かお"
+		}
+	]
+}
