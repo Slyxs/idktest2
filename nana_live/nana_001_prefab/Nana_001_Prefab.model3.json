@@ -1,0 +1,392 @@
+{
+  "Version": 3,
+  "Name": "Nana_001_Prefab",
+  "FileReferences": {
+    "Moc": "Nana_001_Prefab.moc3",
+    "Textures": [
+      "textures/texture_00.png"
+    ],
+    "Physics": "Nana_001_Prefab.physics3.json",
+    "Pose": null,
+    "DisplayInfo": null,
+    "Motions": {
+      "0_angerState": [
+        {
+          "File": "motions/0_angerState.motion3.json"
+        }
+      ],
+      "0_appearanceState": [
+        {
+          "File": "motions/0_appearanceState.motion3.json"
+        }
+      ],
+      "0_idleState_L": [
+        {
+          "File": "motions/0_idleState_L.motion3.json"
+        }
+      ],
+      "0_joyState": [
+        {
+          "File": "motions/0_joyState.motion3.json"
+        }
+      ],
+      "0_sorrowState": [
+        {
+          "File": "motions/0_sorrowState.motion3.json"
+        }
+      ],
+      "0_talkState_L": [
+        {
+          "File": "motions/0_talkState_L.motion3.json"
+        }
+      ],
+      "1_holddownState": [
+        {
+          "File": "motions/1_holddownState.motion3.json"
+        }
+      ],
+      "1_refuseState": [
+        {
+          "File": "motions/1_refuseState.motion3.json"
+        }
+      ],
+      "1_selfenclosed01State": [
+        {
+          "File": "motions/1_selfenclosed01State.motion3.json"
+        }
+      ],
+      "1_shakeleftState": [
+        {
+          "File": "motions/1_shakeleftState.motion3.json"
+        }
+      ],
+      "1_shakerightState": [
+        {
+          "File": "motions/1_shakerightState.motion3.json"
+        }
+      ],
+      "1_shyState": [
+        {
+          "File": "motions/1_shyState.motion3.json"
+        }
+      ],
+      "1_stampState": [
+        {
+          "File": "motions/1_stampState.motion3.json"
+        }
+      ],
+      "1_thinkingState": [
+        {
+          "File": "motions/1_thinkingState.motion3.json"
+        }
+      ],
+      "1_tugearState": [
+        {
+          "File": "motions/1_tugearState.motion3.json"
+        }
+      ],
+      "1_wakeup01State": [
+        {
+          "File": "motions/1_wakeup01State.motion3.json"
+        }
+      ],
+      "1_wakeup02State": [
+        {
+          "File": "motions/1_wakeup02State.motion3.json"
+        }
+      ],
+      "3_captureState": [
+        {
+          "File": "motions/3_captureState.motion3.json"
+        }
+      ],
+      "3_clapState": [
+        {
+          "File": "motions/3_clapState.motion3.json"
+        }
+      ],
+      "3_dance01State_L": [
+        {
+          "File": "motions/3_dance01State_L.motion3.json"
+        }
+      ],
+      "3_dance02State_L": [
+        {
+          "File": "motions/3_dance02State_L.motion3.json"
+        }
+      ],
+      "3_eatState": [
+        {
+          "File": "motions/3_eatState.motion3.json"
+        }
+      ],
+      "3_explainState": [
+        {
+          "File": "motions/3_explainState.motion3.json"
+        }
+      ],
+      "3_focus01State": [
+        {
+          "File": "motions/3_focus01State.motion3.json"
+        }
+      ],
+      "3_focus02State_L": [
+        {
+          "File": "motions/3_focus02State_L.motion3.json"
+        }
+      ],
+      "3_focus03State": [
+        {
+          "File": "motions/3_focus03State.motion3.json"
+        }
+      ],
+      "3_greetState": [
+        {
+          "File": "motions/3_greetState.motion3.json"
+        }
+      ],
+      "3_heartState": [
+        {
+          "File": "motions/3_heartState.motion3.json"
+        }
+      ],
+      "3_hugState": [
+        {
+          "File": "motions/3_hugState.motion3.json"
+        }
+      ],
+      "3_hungryState": [
+        {
+          "File": "motions/3_hungryState.motion3.json"
+        }
+      ],
+      "3_listen01State": [
+        {
+          "File": "motions/3_listen01State.motion3.json"
+        }
+      ],
+      "3_listen02State_L": [
+        {
+          "File": "motions/3_listen02State_L.motion3.json"
+        }
+      ],
+      "3_listen03State": [
+        {
+          "File": "motions/3_listen03State.motion3.json"
+        }
+      ],
+      "3_observe01State": [
+        {
+          "File": "motions/3_observe01State.motion3.json"
+        }
+      ],
+      "3_observe02State_L": [
+        {
+          "File": "motions/3_observe02State_L.motion3.json"
+        }
+      ],
+      "3_observe03State": [
+        {
+          "File": "motions/3_observe03State.motion3.json"
+        }
+      ],
+      "3_pickup02State_L": [
+        {
+          "File": "motions/3_pickup02State_L.motion3.json"
+        }
+      ],
+      "3_pickup03State": [
+        {
+          "File": "motions/3_pickup03State.motion3.json"
+        }
+      ],
+      "3_playgame01State": [
+        {
+          "File": "motions/3_playgame01State.motion3.json"
+        }
+      ],
+      "3_playgame02State_L": [
+        {
+          "File": "motions/3_playgame02State_L.motion3.json"
+        }
+      ],
+      "3_playgame03State": [
+        {
+          "File": "motions/3_playgame03State.motion3.json"
+        }
+      ],
+      "3_probeL01State": [
+        {
+          "File": "motions/3_probeL01State.motion3.json"
+        }
+      ],
+      "3_probeL02State_L": [
+        {
+          "File": "motions/3_probeL02State_L.motion3.json"
+        }
+      ],
+      "3_probeL03State": [
+        {
+          "File": "motions/3_probeL03State.motion3.json"
+        }
+      ],
+      "3_runLState_L": [
+        {
+          "File": "motions/3_runLState_L.motion3.json"
+        }
+      ],
+      "3_runRState_L": [
+        {
+          "File": "motions/3_runRState_L.motion3.json"
+        }
+      ],
+      "3_searchState": [
+        {
+          "File": "motions/3_searchState.motion3.json"
+        }
+      ],
+      "3_sleep01State": [
+        {
+          "File": "motions/3_sleep01State.motion3.json"
+        }
+      ],
+      "3_sleep02State_L": [
+        {
+          "File": "motions/3_sleep02State_L.motion3.json"
+        }
+      ],
+      "3_sleep03State": [
+        {
+          "File": "motions/3_sleep03State.motion3.json"
+        }
+      ],
+      "3_StepLState_L": [
+        {
+          "File": "motions/3_StepLState_L.motion3.json"
+        }
+      ],
+      "3_StepRState_L": [
+        {
+          "File": "motions/3_StepRState_L.motion3.json"
+        }
+      ],
+      "3_tiptoeState": [
+        {
+          "File": "motions/3_tiptoeState.motion3.json"
+        }
+      ],
+      "3_walkLState_L": [
+        {
+          "File": "motions/3_walkLState_L.motion3.json"
+        }
+      ],
+      "3_walkRState_L": [
+        {
+          "File": "motions/3_walkRState_L.motion3.json"
+        }
+      ],
+      "3_yawnState": [
+        {
+          "File": "motions/3_yawnState.motion3.json"
+        }
+      ]
+    },
+    "Expressions": [
+      {
+        "Name": "emotioninteract_admiration_nana_",
+        "File": "expressions/emotioninteract_admiration_nana_.exp3.json"
+      },
+      {
+        "Name": "emotioninteract_confusion_nana_0",
+        "File": "expressions/emotioninteract_confusion_nana_0.exp3.json"
+      },
+      {
+        "Name": "emotioninteract_insincere_nana_0",
+        "File": "expressions/emotioninteract_insincere_nana_0.exp3.json"
+      },
+      {
+        "Name": "emotioninteract_pain_nana_01",
+        "File": "expressions/emotioninteract_pain_nana_01.exp3.json"
+      },
+      {
+        "Name": "emotioninteract_shyness_nana_01",
+        "File": "expressions/emotioninteract_shyness_nana_01.exp3.json"
+      },
+      {
+        "Name": "emotionnormal_amazement_nana_01",
+        "File": "expressions/emotionnormal_amazement_nana_01.exp3.json"
+      },
+      {
+        "Name": "emotionnormal_anger_nana_01",
+        "File": "expressions/emotionnormal_anger_nana_01.exp3.json"
+      },
+      {
+        "Name": "emotionnormal_bubbles_nana_01",
+        "File": "expressions/emotionnormal_bubbles_nana_01.exp3.json"
+      },
+      {
+        "Name": "emotionnormal_crymouth_nana_01",
+        "File": "expressions/emotionnormal_crymouth_nana_01.exp3.json"
+      },
+      {
+        "Name": "emotionnormal_haloeye_nana_01",
+        "File": "expressions/emotionnormal_haloeye_nana_01.exp3.json"
+      },
+      {
+        "Name": "emotionnormal_joy_nana_01",
+        "File": "expressions/emotionnormal_joy_nana_01.exp3.json"
+      },
+      {
+        "Name": "emotionnormal_loveeyes_nana_01",
+        "File": "expressions/emotionnormal_loveeyes_nana_01.exp3.json"
+      },
+      {
+        "Name": "emotionnormal_normal_nana_01",
+        "File": "expressions/emotionnormal_normal_nana_01.exp3.json"
+      },
+      {
+        "Name": "emotionnormal_pout_nana_01",
+        "File": "expressions/emotionnormal_pout_nana_01.exp3.json"
+      },
+      {
+        "Name": "emotionnormal_QAQ_nana_01",
+        "File": "expressions/emotionnormal_QAQ_nana_01.exp3.json"
+      },
+      {
+        "Name": "emotionnormal_sadness_nana_01",
+        "File": "expressions/emotionnormal_sadness_nana_01.exp3.json"
+      },
+      {
+        "Name": "emotionnormal_Sunglasses_nana_01",
+        "File": "expressions/emotionnormal_Sunglasses_nana_01.exp3.json"
+      },
+      {
+        "Name": "emotionnormal_tears_nana_01.e",
+        "File": "expressions/emotionnormal_tears_nana_01.e.exp3.json"
+      },
+      {
+        "Name": "huanzhuang",
+        "File": "expressions/huanzhuang.exp3.json"
+      },
+      {
+        "Name": "toQ",
+        "File": "expressions/toQ.exp3.json"
+      }
+    ]
+  },
+  "Groups": [
+    {
+      "Target": "Parameter",
+      "Name": "EyeBlink",
+      "Ids": [
+        "ParamEyeLOpen",
+        "ParamEyeROpen"
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Name": "LipSync",
+      "Ids": []
+    }
+  ]
+}

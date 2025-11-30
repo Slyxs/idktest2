@@ -1,0 +1,302 @@
+{
+  "Version": 3,
+  "Name": "Yoyo_Live_Prefab",
+  "FileReferences": {
+    "Moc": "Yoyo_Live_Prefab.moc3",
+    "Textures": [
+      "textures/texture_00.png",
+      "textures/texture_01.png"
+    ],
+    "Physics": "Yoyo_Live_Prefab.physics3.json",
+    "Pose": null,
+    "DisplayInfo": null,
+    "Motions": {
+      "akimboState": [
+        {
+          "File": "motions/akimboState.motion3.json"
+        }
+      ],
+      "anniversaryState": [
+        {
+          "File": "motions/anniversaryState.motion3.json"
+        }
+      ],
+      "appearState": [
+        {
+          "File": "motions/appearState.motion3.json"
+        }
+      ],
+      "besorryState": [
+        {
+          "File": "motions/besorryState.motion3.json"
+        }
+      ],
+      "bunnyhopState": [
+        {
+          "File": "motions/bunnyhopState.motion3.json"
+        }
+      ],
+      "clapState": [
+        {
+          "File": "motions/clapState.motion3.json"
+        }
+      ],
+      "crazydanceState": [
+        {
+          "File": "motions/crazydanceState.motion3.json"
+        }
+      ],
+      "cuteState": [
+        {
+          "File": "motions/cuteState.motion3.json"
+        }
+      ],
+      "disappearState": [
+        {
+          "File": "motions/disappearState.motion3.json"
+        }
+      ],
+      "dislikeState": [
+        {
+          "File": "motions/dislikeState.motion3.json"
+        }
+      ],
+      "doubtState": [
+        {
+          "File": "motions/doubtState.motion3.json"
+        }
+      ],
+      "drawcircleState": [
+        {
+          "File": "motions/drawcircleState.motion3.json"
+        }
+      ],
+      "fallillState": [
+        {
+          "File": "motions/fallillState.motion3.json"
+        }
+      ],
+      "fruitjuiceState": [
+        {
+          "File": "motions/fruitjuiceState.motion3.json"
+        }
+      ],
+      "funnyfaceState": [
+        {
+          "File": "motions/funnyfaceState.motion3.json"
+        }
+      ],
+      "givepresentState": [
+        {
+          "File": "motions/givepresentState.motion3.json"
+        }
+      ],
+      "gluttonyState": [
+        {
+          "File": "motions/gluttonyState.motion3.json"
+        }
+      ],
+      "handheartState": [
+        {
+          "File": "motions/handheartState.motion3.json"
+        }
+      ],
+      "headbangState": [
+        {
+          "File": "motions/headbangState.motion3.json"
+        }
+      ],
+      "helloState": [
+        {
+          "File": "motions/helloState.motion3.json"
+        }
+      ],
+      "hugState": [
+        {
+          "File": "motions/hugState.motion3.json"
+        }
+      ],
+      "hungryState": [
+        {
+          "File": "motions/hungryState.motion3.json"
+        }
+      ],
+      "idleState_L": [
+        {
+          "File": "motions/idleState_L.motion3.json"
+        }
+      ],
+      "kissoffState": [
+        {
+          "File": "motions/kissoffState.motion3.json"
+        }
+      ],
+      "knockState": [
+        {
+          "File": "motions/knockState.motion3.json"
+        }
+      ],
+      "lightstickState": [
+        {
+          "File": "motions/lightstickState.motion3.json"
+        }
+      ],
+      "listenState": [
+        {
+          "File": "motions/listenState.motion3.json"
+        }
+      ],
+      "loveState": [
+        {
+          "File": "motions/loveState.motion3.json"
+        }
+      ],
+      "milkteaState": [
+        {
+          "File": "motions/milkteaState.motion3.json"
+        }
+      ],
+      "pickup02State_L": [
+        {
+          "File": "motions/pickup02State_L.motion3.json"
+        }
+      ],
+      "playgameState": [
+        {
+          "File": "motions/playgameState.motion3.json"
+        }
+      ],
+      "pushupState": [
+        {
+          "File": "motions/pushupState.motion3.json"
+        }
+      ],
+      "readbookState": [
+        {
+          "File": "motions/readbookState.motion3.json"
+        }
+      ],
+      "selfieState": [
+        {
+          "File": "motions/selfieState.motion3.json"
+        }
+      ],
+      "shiverState": [
+        {
+          "File": "motions/shiverState.motion3.json"
+        }
+      ],
+      "shyState": [
+        {
+          "File": "motions/shyState.motion3.json"
+        }
+      ],
+      "singState": [
+        {
+          "File": "motions/singState.motion3.json"
+        }
+      ],
+      "sleepState": [
+        {
+          "File": "motions/sleepState.motion3.json"
+        }
+      ],
+      "smashingState": [
+        {
+          "File": "motions/smashingState.motion3.json"
+        }
+      ],
+      "stompState": [
+        {
+          "File": "motions/stompState.motion3.json"
+        }
+      ],
+      "strokeState": [
+        {
+          "File": "motions/strokeState.motion3.json"
+        }
+      ],
+      "swingState": [
+        {
+          "File": "motions/swingState.motion3.json"
+        }
+      ],
+      "thinkState": [
+        {
+          "File": "motions/thinkState.motion3.json"
+        }
+      ],
+      "touchchest1State": [
+        {
+          "File": "motions/touchchest1State.motion3.json"
+        }
+      ],
+      "touchchest2State": [
+        {
+          "File": "motions/touchchest2State.motion3.json"
+        }
+      ],
+      "touchchest3State": [
+        {
+          "File": "motions/touchchest3State.motion3.json"
+        }
+      ],
+      "touchhead1State": [
+        {
+          "File": "motions/touchhead1State.motion3.json"
+        }
+      ],
+      "touchhead2State": [
+        {
+          "File": "motions/touchhead2State.motion3.json"
+        }
+      ],
+      "touchhead3State": [
+        {
+          "File": "motions/touchhead3State.motion3.json"
+        }
+      ],
+      "touchLegs1State": [
+        {
+          "File": "motions/touchLegs1State.motion3.json"
+        }
+      ],
+      "touchLegs2State": [
+        {
+          "File": "motions/touchLegs2State.motion3.json"
+        }
+      ],
+      "touchLegs3State": [
+        {
+          "File": "motions/touchLegs3State.motion3.json"
+        }
+      ],
+      "turnheadState": [
+        {
+          "File": "motions/turnheadState.motion3.json"
+        }
+      ],
+      "yogaState": [
+        {
+          "File": "motions/yogaState.motion3.json"
+        }
+      ]
+    },
+    "Expressions": []
+  },
+  "Groups": [
+    {
+      "Target": "Parameter",
+      "Name": "EyeBlink",
+      "Ids": [
+        "ParamEyeLOpen",
+        "ParamEyeROpen"
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Name": "LipSync",
+      "Ids": []
+    }
+  ]
+}
