@@ -1,0 +1,10 @@
+{
+	"Version": 3,
+	"FileReferences": {
+		"Moc": "soyjack live2d.moc3",
+		"Textures": [
+			"soyjack live2d.1024/texture_00.png"
+		],
+		"DisplayInfo": "soyjack live2d.cdi3.json"
+	}
+}

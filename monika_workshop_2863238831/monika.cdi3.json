@@ -1,0 +1,228 @@
+{
+	"Version": 3,
+	"Parameters": [
+		{
+			"Id": "PARAM_ANGLE_X",
+			"GroupId": "",
+			"Name": "head X"
+		},
+		{
+			"Id": "PARAM_ANGLE_Y",
+			"GroupId": "",
+			"Name": "head Y"
+		},
+		{
+			"Id": "PARAM_ANGLE_Z",
+			"GroupId": "",
+			"Name": "head Z"
+		},
+		{
+			"Id": "PARAM_1",
+			"GroupId": "",
+			"Name": " "
+		},
+		{
+			"Id": "PARAM_BROW_R_Y",
+			"GroupId": "",
+			"Name": "R brow down-up"
+		},
+		{
+			"Id": "PARAM_BROW_R_ANGLE",
+			"GroupId": "",
+			"Name": "R brow in-out"
+		},
+		{
+			"Id": "PARAM_BROW_R_FORM",
+			"GroupId": "",
+			"Name": "R brow sad-happy"
+		},
+		{
+			"Id": "PARAM_BROW_L_Y",
+			"GroupId": "",
+			"Name": "L brow down-up"
+		},
+		{
+			"Id": "PARAM_BROW_L_ANGLE",
+			"GroupId": "",
+			"Name": "L brow in-out"
+		},
+		{
+			"Id": "PARAM_BROW_L_FORM",
+			"GroupId": "",
+			"Name": "L brow sad-happy"
+		},
+		{
+			"Id": "PARAM_2",
+			"GroupId": "",
+			"Name": " "
+		},
+		{
+			"Id": "PARAM_R_EYE_BALL_X",
+			"GroupId": "",
+			"Name": "R eyeball X"
+		},
+		{
+			"Id": "PARAM_R_EYE_BALL_Y",
+			"GroupId": "",
+			"Name": "R eyeball Y"
+		},
+		{
+			"Id": "PARAM_L_EYE_BALL_X",
+			"GroupId": "",
+			"Name": "L eyeball X"
+		},
+		{
+			"Id": "PARAM_L_EYE_BALL_Y",
+			"GroupId": "",
+			"Name": "L eyeball Y"
+		},
+		{
+			"Id": "PARAM_EYE_R_OPEN",
+			"GroupId": "",
+			"Name": "R eye cloz-op"
+		},
+		{
+			"Id": "PARAM_EYE_L_OPEN",
+			"GroupId": "",
+			"Name": "L eye cloz-op"
+		},
+		{
+			"Id": "PARAM_3",
+			"GroupId": "",
+			"Name": " "
+		},
+		{
+			"Id": "PARAM_MOUTH_FORM",
+			"GroupId": "",
+			"Name": "mouth sad-happy"
+		},
+		{
+			"Id": "PARAM_MOUTH_OPEN_Y",
+			"GroupId": "",
+			"Name": "mouth cloz-op"
+		},
+		{
+			"Id": "PARAM_4",
+			"GroupId": "",
+			"Name": " "
+		},
+		{
+			"Id": "PARAM_BODY_ANGLE_X",
+			"GroupId": "",
+			"Name": "body X"
+		},
+		{
+			"Id": "PARAM_BODY_ANGLE_Z",
+			"GroupId": "",
+			"Name": "body Z"
+		},
+		{
+			"Id": "PARAM_BREATH",
+			"GroupId": "",
+			"Name": "breath"
+		},
+		{
+			"Id": "PARAM_5",
+			"GroupId": "",
+			"Name": " "
+		},
+		{
+			"Id": "PARAM_HAIR_FRONT_PHY",
+			"GroupId": "",
+			"Name": "FT hr shake"
+		},
+		{
+			"Id": "PARAM_HAIR_SIDE_PHY",
+			"GroupId": "",
+			"Name": "SD hr shake"
+		},
+		{
+			"Id": "PARAM_HAIR_BACK_PHY",
+			"GroupId": "",
+			"Name": "BK hr shake"
+		},
+		{
+			"Id": "PARAM_HEADBAND_PHY",
+			"GroupId": "",
+			"Name": "hdband shake"
+		},
+		{
+			"Id": "PARAM_RED_BOWKNOT_PHY1",
+			"GroupId": "",
+			"Name": "red bknot shake1"
+		},
+		{
+			"Id": "PARAM_RED_BOWKNOT_PHY2",
+			"GroupId": "",
+			"Name": "red bknot shake2"
+		},
+		{
+			"Id": "PARAM_6",
+			"GroupId": "",
+			"Name": " "
+		},
+		{
+			"Id": "PARAM_SWEAT",
+			"GroupId": "",
+			"Name": "sweat cloz-op"
+		},
+		{
+			"Id": "PARAM_AWKWARD_MOUTH",
+			"GroupId": "",
+			"Name": "awkward mouth"
+		},
+		{
+			"Id": "PARAM_R_ARM",
+			"GroupId": "",
+			"Name": "R arm switch"
+		},
+		{
+			"Id": "PARAM_L_ARM",
+			"GroupId": "",
+			"Name": "L arm switch"
+		}
+	],
+	"ParameterGroups": [],
+	"Parts": [
+		{
+			"Id": "PARTS_9",
+			"Name": "bowknot"
+		},
+		{
+			"Id": "PARTS_8",
+			"Name": "headband"
+		},
+		{
+			"Id": "PARTS_4",
+			"Name": "body"
+		},
+		{
+			"Id": "PARTS_1",
+			"Name": "arm"
+		},
+		{
+			"Id": "PARTS_3",
+			"Name": "face"
+		},
+		{
+			"Id": "PARTS_7",
+			"Name": "mouth"
+		},
+		{
+			"Id": "PARTS_5",
+			"Name": "L-eye"
+		},
+		{
+			"Id": "PARTS_6",
+			"Name": "R-eye"
+		},
+		{
+			"Id": "PARTS_10",
+			"Name": "brow"
+		},
+		{
+			"Id": "PARTS_2",
+			"Name": "HR"
+		}
+	]
+}
