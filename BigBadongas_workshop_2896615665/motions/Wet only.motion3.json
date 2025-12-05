@@ -1,0 +1,111 @@
+{
+	"Version": 3,
+	"Meta": {
+		"Duration": 2.7,
+		"Fps": 60.0,
+		"Loop": true,
+		"AreBeziersRestricted": false,
+		"CurveCount": 5,
+		"TotalSegmentCount": 13,
+		"TotalPointCount": 26,
+		"UserDataCount": 0,
+		"TotalUserDataSize": 0
+	},
+	"Curves": [
+		{
+			"Target": "Parameter",
+			"Id": "ParamWaterHide",
+			"Segments": [
+				0,
+				0,
+				0,
+				2.7,
+				0
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "ParamCamisoleWet",
+			"Segments": [
+				0,
+				0,
+				0,
+				0.333,
+				0,
+				1,
+				0.725,
+				0.43,
+				1.075,
+				1,
+				2.5,
+				1,
+				0,
+				2.7,
+				1
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "ParamCamisoleTransparency",
+			"Segments": [
+				0,
+				0,
+				0,
+				0.333,
+				0,
+				1,
+				1.056,
+				0,
+				1.778,
+				1,
+				2.5,
+				1,
+				0,
+				2.7,
+				1
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "ParamBreastWet",
+			"Segments": [
+				0,
+				0,
+				0,
+				0.333,
+				0,
+				1,
+				0.417,
+				0,
+				0.5,
+				1,
+				0.583,
+				1,
+				0,
+				2.7,
+				1
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "ParamWet",
+			"Segments": [
+				0,
+				0,
+				0,
+				0.333,
+				0,
+				1,
+				1.367,
+				0,
+				1.525,
+				0.989,
+				2.517,
+				1,
+				0,
+				2.7,
+				1
+			]
+		}
+	]
+}

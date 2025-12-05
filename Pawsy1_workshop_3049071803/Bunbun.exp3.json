@@ -1,0 +1,10 @@
+{
+    "Type": "Live2D Expression",
+    "Parameters": [
+        {
+            "Id": "BunbunParam",
+            "Value": 1.0,
+            "Blend": "Add"
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+	"Version": 3,
+	"FileReferences": {
+		"Moc": "雪绘ririna.moc3",
+		"Textures": [
+			"雪绘ririna.8192/texture_00.png"
+		],
+		"Physics": "雪绘ririna.physics3.json",
+		"DisplayInfo": "雪绘ririna.cdi3.json"
+	},
+	"Groups": [
+		{
+			"Target": "Parameter",
+			"Name": "EyeBlink",
+			"Ids": []
+		}
+	]
+}

@@ -1,0 +1,25 @@
+{
+    "Type": "Live2D Expression",
+    "Parameters": [
+        {
+            "Id": "ParamTankToggle",
+            "Value": -1.0,
+            "Blend": "Add"
+        },
+        {
+            "Id": "ParamShirtToggle",
+            "Value": 0.0,
+            "Blend": "Add"
+        },
+        {
+            "Id": "ParamNecklaceToggle",
+            "Value": 0.0,
+            "Blend": "Add"
+        },
+        {
+            "Id": "ParamCollarToggle",
+            "Value": -1.0,
+            "Blend": "Add"
+        }
+    ]
+}

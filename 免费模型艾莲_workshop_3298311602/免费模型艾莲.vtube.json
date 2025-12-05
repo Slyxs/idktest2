@@ -5,20 +5,20 @@
     "FileReferences": {
         "Icon": "鲨鱼妹.png",
         "Model": "免费模型艾莲.model3.json",
-        "IdleAnimation": "idle.motion3.json",
+        "IdleAnimation": "idle2.motion3.json",
         "IdleAnimationWhenTrackingLost": ""
     },
     "ModelSaveMetadata": {
         "LastSavedVTubeStudioVersion": "1.32.67",
         "LastSavedPlatform": "Steam",
-        "LastSavedDateUTC": "Friday, 05 December 2025, 01:52:55",
-        "LastSavedDateLocalTime": "Thursday, 04 December 2025, 17:52:55",
-        "LastSavedDateUnixMillisecondTimestamp": "1764899575190"
+        "LastSavedDateUTC": "Friday, 05 December 2025, 03:47:23",
+        "LastSavedDateLocalTime": "Thursday, 04 December 2025, 19:47:23",
+        "LastSavedDateUnixMillisecondTimestamp": "1764906443252"
     },
     "SavedModelPosition": {
         "Position": {
-            "x": -7.829744338989258,
-            "y": -0.9560375809669495,
+            "x": 0.0,
+            "y": 0.0,
             "z": 0.0
         },
         "Rotation": {
@@ -28,8 +28,8 @@
             "w": 1.0
         },
         "Scale": {
-            "x": 0.7245755791664124,
-            "y": 0.7245755791664124,
+            "x": 1.0,
+            "y": 1.0,
             "z": 1.0
         }
     },

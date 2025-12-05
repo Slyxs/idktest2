@@ -1,0 +1,28 @@
+{
+	"Version": 3,
+	"FileReferences": {
+		"Moc": "Hatsune Miku 5.moc3",
+		"Textures": [
+			"Hatsune Miku 5.2048/texture_00.png"
+		],
+		"Physics": "Hatsune Miku 5.physics3.json",
+		"DisplayInfo": "Hatsune Miku 5.cdi3.json"
+	},
+	"Groups": [
+		{
+			"Target": "Parameter",
+			"Name": "LipSync",
+			"Ids": [
+				"ParamMouthOpenY"
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Name": "EyeBlink",
+			"Ids": [
+				"ParamEyeLOpen",
+				"ParamEyeROpen"
+			]
+		}
+	]
+}

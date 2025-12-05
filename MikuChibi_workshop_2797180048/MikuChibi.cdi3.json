@@ -1,0 +1,492 @@
+{
+	"Version": 3,
+	"Parameters": [
+		{
+			"Id": "ParamCheek",
+			"GroupId": "ParamGroup10",
+			"Name": "Cheek"
+		},
+		{
+			"Id": "ParamRage",
+			"GroupId": "ParamGroup10",
+			"Name": "Angry"
+		},
+		{
+			"Id": "ParamSurprised",
+			"GroupId": "ParamGroup10",
+			"Name": "Surprised"
+		},
+		{
+			"Id": "ParamNotes",
+			"GroupId": "ParamGroup10",
+			"Name": "Music Notes"
+		},
+		{
+			"Id": "ParamSweat",
+			"GroupId": "ParamGroup10",
+			"Name": "Sweat"
+		},
+		{
+			"Id": "ParamFrown",
+			"GroupId": "ParamGroup10",
+			"Name": "Frown"
+		},
+		{
+			"Id": "ParamDeadEye",
+			"GroupId": "ParamGroup10",
+			"Name": "DeadEye"
+		},
+		{
+			"Id": "ParamHollowEye",
+			"GroupId": "ParamGroup10",
+			"Name": "HollowEye"
+		},
+		{
+			"Id": "ParamAngleX",
+			"GroupId": "ParamGroup5",
+			"Name": "Angle X"
+		},
+		{
+			"Id": "ParamAngleY",
+			"GroupId": "ParamGroup5",
+			"Name": "Angle Y"
+		},
+		{
+			"Id": "ParamAngleZ",
+			"GroupId": "ParamGroup5",
+			"Name": "Angle Z"
+		},
+		{
+			"Id": "ParamEyeLOpen",
+			"GroupId": "ParamGroup6",
+			"Name": "EyeL Open"
+		},
+		{
+			"Id": "ParamEyeLSmile",
+			"GroupId": "ParamGroup6",
+			"Name": "EyeL Smile"
+		},
+		{
+			"Id": "ParamEyeROpen",
+			"GroupId": "ParamGroup6",
+			"Name": "EyeR Open"
+		},
+		{
+			"Id": "ParamEyeRSmile",
+			"GroupId": "ParamGroup6",
+			"Name": "EyeR Smile"
+		},
+		{
+			"Id": "ParamEyeBallX",
+			"GroupId": "ParamGroup6",
+			"Name": "Eyeball X"
+		},
+		{
+			"Id": "ParamEyeBallY",
+			"GroupId": "ParamGroup6",
+			"Name": "Eyeball Y"
+		},
+		{
+			"Id": "ParamBrowLY",
+			"GroupId": "ParamGroup6",
+			"Name": "BrowL Y"
+		},
+		{
+			"Id": "ParamBrowRY",
+			"GroupId": "ParamGroup6",
+			"Name": "BrowR Y"
+		},
+		{
+			"Id": "ParamBrowLAngle",
+			"GroupId": "ParamGroup6",
+			"Name": "BrowL Angle"
+		},
+		{
+			"Id": "ParamBrowRAngle",
+			"GroupId": "ParamGroup6",
+			"Name": "BrowR Angle"
+		},
+		{
+			"Id": "ParamBrowLForm",
+			"GroupId": "ParamGroup6",
+			"Name": "BrowL Form"
+		},
+		{
+			"Id": "ParamBrowRForm",
+			"GroupId": "ParamGroup6",
+			"Name": "BrowR Form"
+		},
+		{
+			"Id": "ParamMouthForm",
+			"GroupId": "ParamGroup6",
+			"Name": "Mouth Form"
+		},
+		{
+			"Id": "ParamMouthOpenY",
+			"GroupId": "ParamGroup6",
+			"Name": "Mouth Open"
+		},
+		{
+			"Id": "ParamBodyAngleX",
+			"GroupId": "ParamGroup7",
+			"Name": "Body X"
+		},
+		{
+			"Id": "ParamBodyAngleY",
+			"GroupId": "ParamGroup7",
+			"Name": "Body Y"
+		},
+		{
+			"Id": "ParamBodyAngleZ",
+			"GroupId": "ParamGroup7",
+			"Name": "Body Z"
+		},
+		{
+			"Id": "ParamBreath",
+			"GroupId": "ParamGroup7",
+			"Name": "Breathing"
+		},
+		{
+			"Id": "ParamArmRA",
+			"GroupId": "ParamGroup7",
+			"Name": "ArmR"
+		},
+		{
+			"Id": "ParamArmRB",
+			"GroupId": "ParamGroup7",
+			"Name": "ForearmR"
+		},
+		{
+			"Id": "ParamArmLA",
+			"GroupId": "ParamGroup7",
+			"Name": "ArmL"
+		},
+		{
+			"Id": "ParamArmLB",
+			"GroupId": "ParamGroup7",
+			"Name": "ForearmL"
+		},
+		{
+			"Id": "ParamLegR",
+			"GroupId": "ParamGroup7",
+			"Name": "LegR"
+		},
+		{
+			"Id": "ParamLegL",
+			"GroupId": "ParamGroup7",
+			"Name": "LegL"
+		},
+		{
+			"Id": "ParamForearmLPhysic",
+			"GroupId": "ParamGroup8",
+			"Name": "ForearmL"
+		},
+		{
+			"Id": "ParamForearmRPhysic",
+			"GroupId": "ParamGroup8",
+			"Name": "ForearmR"
+		},
+		{
+			"Id": "ParamShirt",
+			"GroupId": "ParamGroup8",
+			"Name": "Shirt"
+		},
+		{
+			"Id": "ParamSkirt",
+			"GroupId": "ParamGroup8",
+			"Name": "Skirt"
+		},
+		{
+			"Id": "ParamBelt",
+			"GroupId": "ParamGroup8",
+			"Name": "Belt"
+		},
+		{
+			"Id": "ParamNecktie",
+			"GroupId": "ParamGroup8",
+			"Name": "Necktie"
+		},
+		{
+			"Id": "ParamNecktieZ",
+			"GroupId": "ParamGroup8",
+			"Name": "Necktie Z"
+		},
+		{
+			"Id": "ParamNotesPhysic",
+			"GroupId": "ParamGroup8",
+			"Name": "MusicNotes Physic"
+		},
+		{
+			"Id": "ParamHairFront",
+			"GroupId": "ParamGroup9",
+			"Name": "Hair Move Front"
+		},
+		{
+			"Id": "ParamHairFrontZ",
+			"GroupId": "ParamGroup9",
+			"Name": "Hair Move Front Z"
+		},
+		{
+			"Id": "ParamHairFrontY",
+			"GroupId": "ParamGroup9",
+			"Name": "Hair Move Front Y"
+		},
+		{
+			"Id": "ParamHairSide",
+			"GroupId": "ParamGroup9",
+			"Name": "Hair Move Side"
+		},
+		{
+			"Id": "ParamHairSideZ",
+			"GroupId": "ParamGroup9",
+			"Name": "Hair Move Side Z"
+		},
+		{
+			"Id": "ParamHairSideY",
+			"GroupId": "ParamGroup9",
+			"Name": "Hair Move Side Y"
+		},
+		{
+			"Id": "ParamLeftHairClip",
+			"GroupId": "ParamGroup9",
+			"Name": "Left Hair Clip"
+		},
+		{
+			"Id": "ParamRightHairClip",
+			"GroupId": "ParamGroup9",
+			"Name": "Right Hair Clip"
+		},
+		{
+			"Id": "Param_Angle_Rotation3",
+			"GroupId": "ParamGroup",
+			"Name": "[0]RightTwinTail"
+		},
+		{
+			"Id": "Param_Angle_Rotation4",
+			"GroupId": "ParamGroup",
+			"Name": "[1]RightTwinTail"
+		},
+		{
+			"Id": "Param_Angle_Rotation5",
+			"GroupId": "ParamGroup",
+			"Name": "[2]RightTwinTail"
+		},
+		{
+			"Id": "Param_Angle_Rotation6",
+			"GroupId": "ParamGroup2",
+			"Name": "[0]RightTwinTail2"
+		},
+		{
+			"Id": "Param_Angle_Rotation7",
+			"GroupId": "ParamGroup2",
+			"Name": "[1]RightTwinTail2"
+		},
+		{
+			"Id": "Param_Angle_Rotation8",
+			"GroupId": "ParamGroup2",
+			"Name": "[2]RightTwinTail2"
+		},
+		{
+			"Id": "Param_Angle_Rotation16",
+			"GroupId": "ParamGroup3",
+			"Name": "[0]LeftTwinTail"
+		},
+		{
+			"Id": "Param_Angle_Rotation10",
+			"GroupId": "ParamGroup3",
+			"Name": "[1]LeftTwinTail"
+		},
+		{
+			"Id": "Param_Angle_Rotation11",
+			"GroupId": "ParamGroup3",
+			"Name": "[2]LeftTwinTail"
+		},
+		{
+			"Id": "Param_Angle_Rotation12",
+			"GroupId": "ParamGroup4",
+			"Name": "[0]LeftTwinTail2"
+		},
+		{
+			"Id": "Param_Angle_Rotation13",
+			"GroupId": "ParamGroup4",
+			"Name": "[1]LeftTwinTail2"
+		},
+		{
+			"Id": "Param_Angle_Rotation14",
+			"GroupId": "ParamGroup4",
+			"Name": "[2]LeftTwinTail2"
+		}
+	],
+	"ParameterGroups": [
+		{
+			"Id": "ParamGroup10",
+			"GroupId": "",
+			"Name": "Expressions"
+		},
+		{
+			"Id": "ParamGroup5",
+			"GroupId": "",
+			"Name": "Head Movement"
+		},
+		{
+			"Id": "ParamGroup6",
+			"GroupId": "",
+			"Name": "Facial Movement"
+		},
+		{
+			"Id": "ParamGroup7",
+			"GroupId": "",
+			"Name": "Body Movement"
+		},
+		{
+			"Id": "ParamGroup8",
+			"GroupId": "",
+			"Name": "Clothes Physics"
+		},
+		{
+			"Id": "ParamGroup9",
+			"GroupId": "",
+			"Name": "Hair Physics"
+		},
+		{
+			"Id": "ParamGroup",
+			"GroupId": "",
+			"Name": "RightTwinTail"
+		},
+		{
+			"Id": "ParamGroup2",
+			"GroupId": "",
+			"Name": "RightTwinTail2"
+		},
+		{
+			"Id": "ParamGroup3",
+			"GroupId": "",
+			"Name": "LeftTwinTail"
+		},
+		{
+			"Id": "ParamGroup4",
+			"GroupId": "",
+			"Name": "LeftTwinTail2"
+		}
+	],
+	"Parts": [
+		{
+			"Id": "Expression",
+			"Name": "Expression"
+		},
+		{
+			"Id": "Head",
+			"Name": "Head"
+		},
+		{
+			"Id": "Body",
+			"Name": "Body"
+		},
+		{
+			"Id": "Backhair",
+			"Name": "Backhair"
+		},
+		{
+			"Id": "Hair",
+			"Name": "Hair"
+		},
+		{
+			"Id": "Mouth",
+			"Name": "Mouth"
+		},
+		{
+			"Id": "HairShadow",
+			"Name": "HairShadow"
+		},
+		{
+			"Id": "LeftEye",
+			"Name": "LeftEye"
+		},
+		{
+			"Id": "RIghtEye",
+			"Name": "RIghtEye"
+		},
+		{
+			"Id": "Headphone",
+			"Name": "Headphone"
+		},
+		{
+			"Id": "Collar",
+			"Name": "Collar"
+		},
+		{
+			"Id": "Skirt",
+			"Name": "Skirt"
+		},
+		{
+			"Id": "RightArm2",
+			"Name": "RightArm"
+		},
+		{
+			"Id": "RightArm",
+			"Name": "RightArm"
+		},
+		{
+			"Id": "LeftTwinTail2",
+			"Name": "LeftTwinTail"
+		},
+		{
+			"Id": "RightTwinTail",
+			"Name": "RightTwinTail"
+		},
+		{
+			"Id": "FrontHair",
+			"Name": "FrontHair"
+		},
+		{
+			"Id": "LeftBang",
+			"Name": "LeftBang"
+		},
+		{
+			"Id": "RightBang",
+			"Name": "RightBang"
+		},
+		{
+			"Id": "LEye",
+			"Name": "LEye"
+		},
+		{
+			"Id": "REye",
+			"Name": "REye"
+		},
+		{
+			"Id": "RForearm_Skinning2",
+			"Name": "RForearm(Skinning)"
+		},
+		{
+			"Id": "RForearm_Skinning",
+			"Name": "RForearm(Skinning)"
+		},
+		{
+			"Id": "LeftTwintailHair2_Skinning2",
+			"Name": "LeftTwintailHair2(Skinning)"
+		},
+		{
+			"Id": "ArtMesh0_Skinning2",
+			"Name": "LeftTwintailHair(Skinning)"
+		},
+		{
+			"Id": "RightTwintailHair2_Skinning",
+			"Name": "RightTwintailHair2(Skinning)"
+		},
+		{
+			"Id": "ArtMesh0_Skinning",
+			"Name": "RightTwintailHair`(Skinning)"
+		}
+	],
+	"CombinedParameters": [
+		[
+			"ParamEyeBallX",
+			"ParamEyeBallY"
+		],
+		[
+			"ParamNecktie",
+			"ParamNecktieZ"
+		]
+	]
+}

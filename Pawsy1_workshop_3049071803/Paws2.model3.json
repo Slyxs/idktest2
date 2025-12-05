@@ -1,0 +1,24 @@
+{
+	"Version": 3,
+	"FileReferences": {
+		"Moc": "Paws2.moc3",
+		"Textures": [
+			"Paws2.4096/texture_00.png",
+			"Paws2.4096/texture_01.png"
+		],
+		"Physics": "Paws2.physics3.json",
+		"DisplayInfo": "Paws2.cdi3.json"
+	},
+	"Groups": [
+		{
+			"Target": "Parameter",
+			"Name": "EyeBlink",
+			"Ids": []
+		},
+		{
+			"Target": "Parameter",
+			"Name": "LipSync",
+			"Ids": []
+		}
+	]
+}

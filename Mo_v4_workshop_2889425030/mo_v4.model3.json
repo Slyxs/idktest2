@@ -1,0 +1,38 @@
+{
+	"Version": 3,
+	"FileReferences": {
+		"Moc": "mo_v4.moc3",
+		"Textures": [
+			"mo_v4.4096/texture_00.png"
+		],
+		"Physics": "mo_v4.physics3.json",
+		"DisplayInfo": "mo_v4.cdi3.json",
+		"Expressions": [
+			{
+				"Name": "water_Drop",
+				"File": "expressions/water_Drop.exp3.json"
+			},
+			{
+				"Name": "exp_zbj",
+				"File": "expressions/exp_zbj.exp3.json"
+			},
+			{
+				"Name": "cloak",
+				"File": "expressions/cloak.exp3.json"
+			}
+		]
+	},
+	"Groups": [
+		{
+			"Target": "Parameter",
+			"Name": "EyeBlink",
+			"Ids": []
+		},
+		{
+			"Target": "Parameter",
+			"Name": "LipSync",
+			"Ids": []
+		}
+	],
+	"HitAreas": []
+}

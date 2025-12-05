@@ -1,0 +1,210 @@
+{
+	"Version": 3,
+	"Parameters": [
+		{
+			"Id": "dhbqqh",
+			"GroupId": "ParamGroup",
+			"Name": "对话表情切换"
+		},
+		{
+			"Id": "yjbqqh",
+			"GroupId": "ParamGroup",
+			"Name": "眼睛表情切换"
+		},
+		{
+			"Id": "zbbqqh",
+			"GroupId": "ParamGroup",
+			"Name": "嘴巴表情切换"
+		},
+		{
+			"Id": "tbqh",
+			"GroupId": "ParamGroup",
+			"Name": "头部切换"
+		},
+		{
+			"Id": "tfqh",
+			"GroupId": "ParamGroup",
+			"Name": "衣服切换"
+		},
+		{
+			"Id": "ggqh",
+			"GroupId": "ParamGroup",
+			"Name": "高光切换"
+		},
+		{
+			"Id": "ParamAngleX",
+			"GroupId": "ParamGroup2",
+			"Name": "角度 X"
+		},
+		{
+			"Id": "ParamAngleY",
+			"GroupId": "ParamGroup2",
+			"Name": "角度 Y"
+		},
+		{
+			"Id": "ParamAngleZ",
+			"GroupId": "ParamGroup2",
+			"Name": "角度 Z"
+		},
+		{
+			"Id": "ParamEyeLOpen",
+			"GroupId": "ParamGroup3",
+			"Name": "左眼 开闭"
+		},
+		{
+			"Id": "ParamEyeLSmile",
+			"GroupId": "ParamGroup3",
+			"Name": "左眼 微笑"
+		},
+		{
+			"Id": "ParamEyeROpen",
+			"GroupId": "ParamGroup3",
+			"Name": "右眼 开闭"
+		},
+		{
+			"Id": "ParamEyeRSmile",
+			"GroupId": "ParamGroup3",
+			"Name": "右眼 微笑"
+		},
+		{
+			"Id": "ParamMouthForm",
+			"GroupId": "ParamGroup4",
+			"Name": "嘴 变形"
+		},
+		{
+			"Id": "ParamMouthOpenY",
+			"GroupId": "ParamGroup4",
+			"Name": "嘴 开闭"
+		},
+		{
+			"Id": "ParamBreath",
+			"GroupId": "",
+			"Name": "呼吸"
+		},
+		{
+			"Id": "ParamHairFront",
+			"GroupId": "",
+			"Name": "摇动 前发"
+		},
+		{
+			"Id": "ParamHairSide",
+			"GroupId": "",
+			"Name": "摇动 侧发"
+		},
+		{
+			"Id": "ParamHairBack",
+			"GroupId": "",
+			"Name": "摇动 后发"
+		}
+	],
+	"ParameterGroups": [
+		{
+			"Id": "ParamGroup",
+			"GroupId": "",
+			"Name": "表情切换"
+		},
+		{
+			"Id": "ParamGroup2",
+			"GroupId": "",
+			"Name": "头xyz"
+		},
+		{
+			"Id": "ParamGroup3",
+			"GroupId": "",
+			"Name": "眼睛"
+		},
+		{
+			"Id": "ParamGroup4",
+			"GroupId": "",
+			"Name": "嘴巴"
+		}
+	],
+	"Parts": [
+		{
+			"Id": "Part",
+			"Name": "整体"
+		},
+		{
+			"Id": "dhkz",
+			"Name": "对话框组"
+		},
+		{
+			"Id": "Part3",
+			"Name": "角色"
+		},
+		{
+			"Id": "tb",
+			"Name": "头部"
+		},
+		{
+			"Id": "st",
+			"Name": "身体"
+		},
+		{
+			"Id": "hf",
+			"Name": "后发"
+		},
+		{
+			"Id": "ts",
+			"Name": "头饰"
+		},
+		{
+			"Id": "tr",
+			"Name": "挑染"
+		},
+		{
+			"Id": "Part6",
+			"Name": "头发"
+		},
+		{
+			"Id": "bq",
+			"Name": "表情"
+		},
+		{
+			"Id": "Part7",
+			"Name": "跟踪"
+		},
+		{
+			"Id": "wb",
+			"Name": "尾巴"
+		},
+		{
+			"Id": "yjbq",
+			"Name": "眼睛表情"
+		},
+		{
+			"Id": "zbbq",
+			"Name": "嘴巴表情"
+		},
+		{
+			"Id": "Part9",
+			"Name": "眼睛跟踪"
+		},
+		{
+			"Id": "zbgz",
+			"Name": "嘴巴"
+		},
+		{
+			"Id": "Part2",
+			"Name": "yjy"
+		},
+		{
+			"Id": "Part4",
+			"Name": "yjz"
+		}
+	],
+	"CombinedParameters": [
+		[
+			"ParamEyeLOpen",
+			"ParamEyeLSmile"
+		],
+		[
+			"ParamEyeROpen",
+			"ParamEyeRSmile"
+		],
+		[
+			"ParamMouthForm",
+			"ParamMouthOpenY"
+		]
+	]
+}

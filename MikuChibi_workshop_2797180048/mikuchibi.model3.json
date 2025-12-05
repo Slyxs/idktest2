@@ -1,0 +1,76 @@
+{
+	"Version": 3,
+	"FileReferences": {
+		"Moc": "MikuChibi.moc3",
+		"Textures": [
+			"MikuChibi.4096/texture_00.png"
+		],
+		"Physics": "MikuChibi.physics3.json",
+		"DisplayInfo": "MikuChibi.cdi3.json",
+		"Expressions": [
+			{
+				"Name": "Angry.exp3.json",
+				"File": "expressions/Angry.exp3.json"
+			},
+			{
+				"Name": "ArmL.exp3.json",
+				"File": "expressions/ArmL.exp3.json"
+			},
+			{
+				"Name": "ArmR.exp3.json",
+				"File": "expressions/ArmR.exp3.json"
+			},
+			{
+				"Name": "Cheek.exp3.json",
+				"File": "expressions/Cheek.exp3.json"
+			},
+			{
+				"Name": "DeadEye.exp3.json",
+				"File": "expressions/DeadEye.exp3.json"
+			},
+			{
+				"Name": "EyeSmile.exp3.json",
+				"File": "expressions/EyeSmile.exp3.json"
+			},
+			{
+				"Name": "Frown.exp3.json",
+				"File": "expressions/Frown.exp3.json"
+			},
+			{
+				"Name": "HollowEye.exp3.json",
+				"File": "expressions/HollowEye.exp3.json"
+			},
+			{
+				"Name": "Notes.exp3.json",
+				"File": "expressions/Notes.exp3.json"
+			},
+			{
+				"Name": "Surprised.exp3.json",
+				"File": "expressions/Surprised.exp3.json"
+			},
+			{
+				"Name": "Sweat.exp3.json",
+				"File": "expressions/Sweat.exp3.json"
+			}
+		]
+	},
+	"Groups": [
+		{
+			"Target": "Parameter",
+			"Name": "LipSync",
+			"Ids": [
+				"ParamMouthForm",
+				"ParamMouthOpenY"
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Name": "EyeBlink",
+			"Ids": [
+				"ParamEyeLOpen",
+				"ParamEyeROpen"
+			]
+		}
+	],
+	"HitAreas": []
+}

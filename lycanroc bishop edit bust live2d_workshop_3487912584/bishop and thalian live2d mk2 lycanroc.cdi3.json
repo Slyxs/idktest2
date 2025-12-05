@@ -1,0 +1,723 @@
+{
+	"Version": 3,
+	"Parameters": [
+		{
+			"Id": "ParamAngleX",
+			"GroupId": "",
+			"Name": "Angle X"
+		},
+		{
+			"Id": "ParamAngleY",
+			"GroupId": "",
+			"Name": "Angle Y"
+		},
+		{
+			"Id": "ParamAngleZ",
+			"GroupId": "",
+			"Name": "Angle Z"
+		},
+		{
+			"Id": "ParamEyeLOpen",
+			"GroupId": "",
+			"Name": "EyeL Open"
+		},
+		{
+			"Id": "ParamEyeLSmile",
+			"GroupId": "",
+			"Name": "EyeL Smile"
+		},
+		{
+			"Id": "ParamEyeROpen",
+			"GroupId": "",
+			"Name": "EyeR Open"
+		},
+		{
+			"Id": "ParamEyeRSmile",
+			"GroupId": "",
+			"Name": "EyeR Smile"
+		},
+		{
+			"Id": "ParamEyeBallX",
+			"GroupId": "",
+			"Name": "Eyeball X"
+		},
+		{
+			"Id": "ParamEyeBallY",
+			"GroupId": "",
+			"Name": "Eyeball Y"
+		},
+		{
+			"Id": "ParamBrowLY",
+			"GroupId": "",
+			"Name": "BrowL Y"
+		},
+		{
+			"Id": "ParamBrowRY",
+			"GroupId": "",
+			"Name": "BrowR Y"
+		},
+		{
+			"Id": "ParamMouthForm",
+			"GroupId": "",
+			"Name": "Mouth Form"
+		},
+		{
+			"Id": "ParamMouthOpenY",
+			"GroupId": "",
+			"Name": "Mouth Open"
+		},
+		{
+			"Id": "ParamCheek",
+			"GroupId": "",
+			"Name": "Cheek"
+		},
+		{
+			"Id": "ParamBodyAngleX",
+			"GroupId": "",
+			"Name": "Body X"
+		},
+		{
+			"Id": "ParamBodyAngleY",
+			"GroupId": "",
+			"Name": "Body Y"
+		},
+		{
+			"Id": "ParamBodyAngleZ",
+			"GroupId": "",
+			"Name": "Body Z"
+		},
+		{
+			"Id": "ParamBreath",
+			"GroupId": "",
+			"Name": "Breath"
+		},
+		{
+			"Id": "ParamBounceX",
+			"GroupId": "",
+			"Name": "Bounce X"
+		},
+		{
+			"Id": "ParamBounceY",
+			"GroupId": "",
+			"Name": "bounce Y"
+		},
+		{
+			"Id": "ParamBounceYInput",
+			"GroupId": "",
+			"Name": "BounceYInput"
+		},
+		{
+			"Id": "ParamBounceYInput2",
+			"GroupId": "",
+			"Name": "BounceYInput 2"
+		},
+		{
+			"Id": "ParamEarLToggle",
+			"GroupId": "ParamGroup8",
+			"Name": "ear L toggle"
+		},
+		{
+			"Id": "ParamEarRToggle",
+			"GroupId": "ParamGroup8",
+			"Name": "ear R toggle"
+		},
+		{
+			"Id": "ParamHairToggle",
+			"GroupId": "ParamGroup8",
+			"Name": "hair toggle"
+		},
+		{
+			"Id": "ParamSeethruHairToggle",
+			"GroupId": "ParamGroup8",
+			"Name": "seethru hair toggle"
+		},
+		{
+			"Id": "ParamTankToggle",
+			"GroupId": "ParamGroup8",
+			"Name": "tanktop toggle"
+		},
+		{
+			"Id": "ParamShirtToggle",
+			"GroupId": "ParamGroup8",
+			"Name": "shirt toggle"
+		},
+		{
+			"Id": "ParamNecklaceToggle",
+			"GroupId": "ParamGroup8",
+			"Name": "necklace toggle"
+		},
+		{
+			"Id": "ParamCollarToggle",
+			"GroupId": "ParamGroup8",
+			"Name": "collar toggle"
+		},
+		{
+			"Id": "ParamLycanrocToggle",
+			"GroupId": "ParamGroup8",
+			"Name": "lycanroc toggle"
+		},
+		{
+			"Id": "ParamWatermark",
+			"GroupId": "ParamGroup8",
+			"Name": "watermark"
+		},
+		{
+			"Id": "ParamMouthXTurnSmileAddR",
+			"GroupId": "ParamGroup4",
+			"Name": "mouth X turn smile addR"
+		},
+		{
+			"Id": "ParamMouthXTurnSmileAddL",
+			"GroupId": "ParamGroup4",
+			"Name": "mouth X turn smile add L"
+		},
+		{
+			"Id": "ParamMouthDownTeethCurve",
+			"GroupId": "ParamGroup4",
+			"Name": "mouth down teeth curve"
+		},
+		{
+			"Id": "ParamMouthUpTeethCurve",
+			"GroupId": "ParamGroup4",
+			"Name": "mouth up teeth curve"
+		},
+		{
+			"Id": "ParamEyerimBrowTiltL",
+			"GroupId": "ParamGroup3",
+			"Name": "eyerim brow tilt L"
+		},
+		{
+			"Id": "ParamEyelashPhysL",
+			"GroupId": "ParamGroup3",
+			"Name": "eyelash phys L"
+		},
+		{
+			"Id": "ParamEyeballLPhys",
+			"GroupId": "ParamGroup3",
+			"Name": "eyeball L phys"
+		},
+		{
+			"Id": "ParamPupilLPhys",
+			"GroupId": "ParamGroup3",
+			"Name": "pupilL Phys"
+		},
+		{
+			"Id": "ParamPupilLPhys2",
+			"GroupId": "ParamGroup3",
+			"Name": "pupil L Phys2"
+		},
+		{
+			"Id": "ParamEyerimBrowTiltR",
+			"GroupId": "ParamGroup3",
+			"Name": "eyerim brow tilt R"
+		},
+		{
+			"Id": "ParamEyelashPhysR",
+			"GroupId": "ParamGroup3",
+			"Name": "eyelash phys R"
+		},
+		{
+			"Id": "ParamEyeballRPhys",
+			"GroupId": "ParamGroup3",
+			"Name": "eyeball R phys"
+		},
+		{
+			"Id": "ParamPupilRPhys",
+			"GroupId": "ParamGroup3",
+			"Name": "pupil R Phys"
+		},
+		{
+			"Id": "ParamPupilRPhys2",
+			"GroupId": "ParamGroup3",
+			"Name": "pupil RPhys2"
+		},
+		{
+			"Id": "ParamCheekfuzzPhysL",
+			"GroupId": "ParamGroup3",
+			"Name": "cheekfuzz phys L"
+		},
+		{
+			"Id": "ParamCheekfuzzPhysL2",
+			"GroupId": "ParamGroup3",
+			"Name": "cheekfuzz physL2"
+		},
+		{
+			"Id": "ParamCheekfuzzPhysR",
+			"GroupId": "ParamGroup3",
+			"Name": "cheekfuzz phys R"
+		},
+		{
+			"Id": "ParamCheekfuzzPhysR2",
+			"GroupId": "ParamGroup3",
+			"Name": "cheekfuzz physR2"
+		},
+		{
+			"Id": "ParamNecklacePhys1",
+			"GroupId": "ParamGroup3",
+			"Name": "necklace phys"
+		},
+		{
+			"Id": "ParamNecklacePhys2",
+			"GroupId": "ParamGroup3",
+			"Name": "necklace phys2"
+		},
+		{
+			"Id": "ParamNecklacePhysY",
+			"GroupId": "ParamGroup3",
+			"Name": "necklace phys Y"
+		},
+		{
+			"Id": "ParamShoulderL",
+			"GroupId": "ParamGroup9",
+			"Name": "Shoulder L"
+		},
+		{
+			"Id": "ParamShoulderR",
+			"GroupId": "ParamGroup9",
+			"Name": "Shoulder R"
+		},
+		{
+			"Id": "ParamEarL",
+			"GroupId": "ParamGroup2",
+			"Name": "ear L"
+		},
+		{
+			"Id": "ParamEarLPhys1",
+			"GroupId": "ParamGroup2",
+			"Name": "Ear L phys 1"
+		},
+		{
+			"Id": "ParamEarLPhys2",
+			"GroupId": "ParamGroup2",
+			"Name": "Ear L phys 2"
+		},
+		{
+			"Id": "ParamEarLFuzzPhys",
+			"GroupId": "ParamGroup2",
+			"Name": "Ear L fuzz phys"
+		},
+		{
+			"Id": "ParamEarFoldL",
+			"GroupId": "ParamGroup2",
+			"Name": "ear fold L"
+		},
+		{
+			"Id": "ParamEarringLoopPhysL",
+			"GroupId": "ParamGroup2",
+			"Name": "earring loop phys L"
+		},
+		{
+			"Id": "ParamEarR",
+			"GroupId": "ParamGroup2",
+			"Name": "ear R"
+		},
+		{
+			"Id": "ParamEarRPhys1",
+			"GroupId": "ParamGroup2",
+			"Name": "Ear R phys 1"
+		},
+		{
+			"Id": "ParamEarRPhys2",
+			"GroupId": "ParamGroup2",
+			"Name": "Ear R phys 2"
+		},
+		{
+			"Id": "ParamEarRFuzzPhys",
+			"GroupId": "ParamGroup2",
+			"Name": "Ear R fuzz phys"
+		},
+		{
+			"Id": "ParamEarFoldR",
+			"GroupId": "ParamGroup2",
+			"Name": "ear fold R"
+		},
+		{
+			"Id": "ParamEarringLoopPhysR",
+			"GroupId": "ParamGroup2",
+			"Name": "earring loop phys R"
+		},
+		{
+			"Id": "ParamHairBshFrontPhys",
+			"GroupId": "ParamGroup",
+			"Name": "hair bsh front phys"
+		},
+		{
+			"Id": "ParamHairBshFrontPhys2",
+			"GroupId": "ParamGroup",
+			"Name": "hair bsh front phys2"
+		},
+		{
+			"Id": "Paramhair_bishopPhysB1",
+			"GroupId": "ParamGroup",
+			"Name": "hair_bishop physB1"
+		},
+		{
+			"Id": "Paramhair_bishopPhysB2",
+			"GroupId": "ParamGroup",
+			"Name": "hair_bishop physB2"
+		},
+		{
+			"Id": "ParamHairBshBack",
+			"GroupId": "ParamGroup",
+			"Name": "hair bsh back"
+		},
+		{
+			"Id": "ParamHairTHBack",
+			"GroupId": "ParamGroup",
+			"Name": "hair TH back"
+		},
+		{
+			"Id": "ParamHairTHBack2",
+			"GroupId": "ParamGroup",
+			"Name": "hair TH back2"
+		},
+		{
+			"Id": "Param_Angle_Rotation15",
+			"GroupId": "ParamGroup5",
+			"Name": "[0]hair_thalianA phys"
+		},
+		{
+			"Id": "Param_Angle_Rotation16",
+			"GroupId": "ParamGroup5",
+			"Name": "[1]hair_thalianA phys"
+		},
+		{
+			"Id": "Param_Angle_Rotation17",
+			"GroupId": "ParamGroup5",
+			"Name": "[2]hair_thalianA phys"
+		},
+		{
+			"Id": "Param_Angle_Rotation18",
+			"GroupId": "ParamGroup5",
+			"Name": "[3]hair_thalianA phys"
+		},
+		{
+			"Id": "Param_Angle_Rotation19",
+			"GroupId": "ParamGroup6",
+			"Name": "[0]hair_thalianB Rotation"
+		},
+		{
+			"Id": "Param_Angle_Rotation20",
+			"GroupId": "ParamGroup6",
+			"Name": "[1]hair_thalianB Rotation"
+		},
+		{
+			"Id": "Param_Angle_Rotation21",
+			"GroupId": "ParamGroup6",
+			"Name": "[2]hair_thalianB Rotation"
+		},
+		{
+			"Id": "Param_Angle_Rotation22",
+			"GroupId": "ParamGroup6",
+			"Name": "[3]hair_thalianB Rotation"
+		},
+		{
+			"Id": "Param_Angle_Rotation23",
+			"GroupId": "ParamGroup7",
+			"Name": "[0]hair_thalianC Rotation"
+		},
+		{
+			"Id": "Param_Angle_Rotation24",
+			"GroupId": "ParamGroup7",
+			"Name": "[1]hair_thalianC Rotation"
+		},
+		{
+			"Id": "Param_Angle_Rotation25",
+			"GroupId": "ParamGroup7",
+			"Name": "[2]hair_thalianC Rotation"
+		},
+		{
+			"Id": "Param_Angle_Rotation26",
+			"GroupId": "ParamGroup7",
+			"Name": "[3]hair_thalianC Rotation"
+		},
+		{
+			"Id": "Param_Angle_Rotation52",
+			"GroupId": "ParamGroup10",
+			"Name": "[0]arm L phys"
+		},
+		{
+			"Id": "Param_Angle_Rotation53",
+			"GroupId": "ParamGroup10",
+			"Name": "[1]arm L phys"
+		},
+		{
+			"Id": "Param_Angle_Rotation55",
+			"GroupId": "ParamGroup10",
+			"Name": "[0]arm R phys"
+		},
+		{
+			"Id": "Param_Angle_Rotation54",
+			"GroupId": "ParamGroup10",
+			"Name": "[1]arm R phys"
+		}
+	],
+	"ParameterGroups": [
+		{
+			"Id": "ParamGroup8",
+			"GroupId": "",
+			"Name": "toggles"
+		},
+		{
+			"Id": "ParamGroup4",
+			"GroupId": "",
+			"Name": "blendshape crap"
+		},
+		{
+			"Id": "ParamGroup3",
+			"GroupId": "",
+			"Name": "other phys"
+		},
+		{
+			"Id": "ParamGroup9",
+			"GroupId": "",
+			"Name": "arm stuff"
+		},
+		{
+			"Id": "ParamGroup2",
+			"GroupId": "",
+			"Name": "earstuff"
+		},
+		{
+			"Id": "ParamGroup",
+			"GroupId": "",
+			"Name": "hair phys"
+		},
+		{
+			"Id": "ParamGroup5",
+			"GroupId": "",
+			"Name": "hair_thalianA phys"
+		},
+		{
+			"Id": "ParamGroup6",
+			"GroupId": "",
+			"Name": "hair_thalianB Rotation"
+		},
+		{
+			"Id": "ParamGroup7",
+			"GroupId": "",
+			"Name": "hair_thalianC Rotation"
+		},
+		{
+			"Id": "ParamGroup10",
+			"GroupId": "",
+			"Name": "arm L phys"
+		}
+	],
+	"Parts": [
+		{
+			"Id": "Part2",
+			"Name": "smee smiddy becomes a signature v2.png"
+		},
+		{
+			"Id": "Part",
+			"Name": "bishop and thalian live2d mk2 BSHonly lycanroc style face.psd (Corresponding layer not found)"
+		},
+		{
+			"Id": "Folder6",
+			"Name": "Folder6"
+		},
+		{
+			"Id": "torso_claws",
+			"Name": "torso_claws"
+		},
+		{
+			"Id": "head",
+			"Name": "head"
+		},
+		{
+			"Id": "clothing",
+			"Name": "clothing"
+		},
+		{
+			"Id": "body",
+			"Name": "body"
+		},
+		{
+			"Id": "hair",
+			"Name": "hair"
+		},
+		{
+			"Id": "face_stuff",
+			"Name": "face_stuff"
+		},
+		{
+			"Id": "mouth",
+			"Name": "mouth"
+		},
+		{
+			"Id": "eyes2",
+			"Name": "eyes2"
+		},
+		{
+			"Id": "eyes",
+			"Name": "eyes"
+		},
+		{
+			"Id": "fold_ear2",
+			"Name": "fold_ear2"
+		},
+		{
+			"Id": "fold_ear",
+			"Name": "fold_ear"
+		},
+		{
+			"Id": "ears2",
+			"Name": "ears2"
+		},
+		{
+			"Id": "ears",
+			"Name": "ears"
+		},
+		{
+			"Id": "shirt",
+			"Name": "shirt"
+		},
+		{
+			"Id": "heart_necklace",
+			"Name": "heart_necklace"
+		},
+		{
+			"Id": "furpattern_lightgreen_pivot",
+			"Name": "furpattern_lightgreen_pivot"
+		},
+		{
+			"Id": "fur_pattern_stuff",
+			"Name": "fur_pattern_stuff"
+		},
+		{
+			"Id": "armstuff",
+			"Name": "armstuff"
+		},
+		{
+			"Id": "hair_thalian",
+			"Name": "hair_thalian"
+		},
+		{
+			"Id": "hair_bishop",
+			"Name": "hair_bishop"
+		},
+		{
+			"Id": "browstuff2",
+			"Name": "browstuff"
+		},
+		{
+			"Id": "eyelash_guides2",
+			"Name": "eyelash guides"
+		},
+		{
+			"Id": "eyelash_closed_parts2",
+			"Name": "eyelash_closed_parts"
+		},
+		{
+			"Id": "opened_eye2",
+			"Name": "opened_eye"
+		},
+		{
+			"Id": "browstuff",
+			"Name": "browstuff"
+		},
+		{
+			"Id": "eyelash_guides",
+			"Name": "eyelash guides"
+		},
+		{
+			"Id": "eyelash_closed_parts",
+			"Name": "eyelash_closed_parts"
+		},
+		{
+			"Id": "opened_eye",
+			"Name": "opened_eye"
+		},
+		{
+			"Id": "earring_loop_stuff5",
+			"Name": "earring loop stuff"
+		},
+		{
+			"Id": "Fpiercings2",
+			"Name": "Fpiercings"
+		},
+		{
+			"Id": "ear_fold_MK3",
+			"Name": "ear_fold_MK2"
+		},
+		{
+			"Id": "earring_loop_stuff4",
+			"Name": "earring loop stuff"
+		},
+		{
+			"Id": "Fpiercings",
+			"Name": "Fpiercings"
+		},
+		{
+			"Id": "ear_fold_MK2",
+			"Name": "ear_fold_MK2"
+		},
+		{
+			"Id": "earring_loop_stuff3",
+			"Name": "earring loop stuff"
+		},
+		{
+			"Id": "piercings2",
+			"Name": "piercings"
+		},
+		{
+			"Id": "earring_loop_stuff2",
+			"Name": "earring loop stuff"
+		},
+		{
+			"Id": "piercings",
+			"Name": "piercings"
+		},
+		{
+			"Id": "shirt_sleeves_Skinning2",
+			"Name": "shirt_sleeves(Skinning)"
+		},
+		{
+			"Id": "shirt_sleeves_Skinning",
+			"Name": "shirt_sleeves(Skinning)"
+		},
+		{
+			"Id": "arms_Skinning2",
+			"Name": "arms(Skinning)"
+		},
+		{
+			"Id": "arms_Skinning",
+			"Name": "arms(Skinning)"
+		},
+		{
+			"Id": "hair_thalian_A_Skinning_seethru",
+			"Name": "hair_thalian_A(Skinning) seethru"
+		},
+		{
+			"Id": "hair_thalian_A_Skinning",
+			"Name": "hair_thalian_A(Skinning)"
+		},
+		{
+			"Id": "hair_thalian_A_Skinning_shd",
+			"Name": "hair_thalian_A(Skinning)_shd"
+		},
+		{
+			"Id": "hair_thalianB_Skinning_seethru",
+			"Name": "hair_thalianB(Skinning) seethru"
+		},
+		{
+			"Id": "hair_thalianB_Skinning",
+			"Name": "hair_thalianB(Skinning)"
+		},
+		{
+			"Id": "hair_thalianB_Skinning_shd",
+			"Name": "hair_thalianB(Skinning) shd"
+		},
+		{
+			"Id": "hair_thalianC_Skinning",
+			"Name": "hair_thalianC(Skinning)"
+		}
+	],
+	"CombinedParameters": [
+		[
+			"ParamAngleX",
+			"ParamAngleY"
+		]
+	]
+}

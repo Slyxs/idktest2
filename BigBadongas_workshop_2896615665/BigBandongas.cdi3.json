@@ -1,0 +1,521 @@
+{
+	"Version": 3,
+	"Parameters": [
+		{
+			"Id": "ParamWaterHide",
+			"GroupId": "",
+			"Name": "WaterSplashOff"
+		},
+		{
+			"Id": "ParamHandLUp",
+			"GroupId": "ParamGroup4",
+			"Name": "Hand L Up"
+		},
+		{
+			"Id": "ParamHandRUp",
+			"GroupId": "ParamGroup4",
+			"Name": "Hand R Up"
+		},
+		{
+			"Id": "ParamHandLX",
+			"GroupId": "ParamGroup4",
+			"Name": "Hand L Position X"
+		},
+		{
+			"Id": "ParamHandLY",
+			"GroupId": "ParamGroup4",
+			"Name": "Hand L Position Y"
+		},
+		{
+			"Id": "ParamHandLZ",
+			"GroupId": "ParamGroup4",
+			"Name": "Hand L Z"
+		},
+		{
+			"Id": "ParamHandRX",
+			"GroupId": "ParamGroup4",
+			"Name": "Hand R Position X"
+		},
+		{
+			"Id": "ParamHandRY",
+			"GroupId": "ParamGroup4",
+			"Name": "Hand R Position Y"
+		},
+		{
+			"Id": "ParamHandRZ",
+			"GroupId": "ParamGroup4",
+			"Name": "Hand R Z"
+		},
+		{
+			"Id": "ParamHandRGrip",
+			"GroupId": "ParamGroup4",
+			"Name": "Hand R Grip"
+		},
+		{
+			"Id": "ParamHandRBottle",
+			"GroupId": "ParamGroup4",
+			"Name": "Hand R Bottle"
+		},
+		{
+			"Id": "ParamBottleFall",
+			"GroupId": "ParamGroup4",
+			"Name": "Bottle Fall"
+		},
+		{
+			"Id": "ParamWaterErect",
+			"GroupId": "ParamGroup4",
+			"Name": "Water Splash"
+		},
+		{
+			"Id": "ParamWaterErect2",
+			"GroupId": "ParamGroup4",
+			"Name": "Water Splash 2"
+		},
+		{
+			"Id": "ParamWaterSplashZ",
+			"GroupId": "ParamGroup4",
+			"Name": "Water Splash Z"
+		},
+		{
+			"Id": "ParamAngleX",
+			"GroupId": "ParamGroup",
+			"Name": "Angle X"
+		},
+		{
+			"Id": "ParamAngleY",
+			"GroupId": "ParamGroup",
+			"Name": "Angle Y"
+		},
+		{
+			"Id": "ParamAngleZ",
+			"GroupId": "ParamGroup",
+			"Name": "Angle Z"
+		},
+		{
+			"Id": "ParamEyeLOpen",
+			"GroupId": "ParamGroup",
+			"Name": "EyeL Open"
+		},
+		{
+			"Id": "ParamEyeLSmile",
+			"GroupId": "ParamGroup",
+			"Name": "EyeL Smile"
+		},
+		{
+			"Id": "ParamEyeROpen",
+			"GroupId": "ParamGroup",
+			"Name": "EyeR Open"
+		},
+		{
+			"Id": "ParamEyeRSmile",
+			"GroupId": "ParamGroup",
+			"Name": "EyeR Smile"
+		},
+		{
+			"Id": "ParamEyeBallX",
+			"GroupId": "ParamGroup",
+			"Name": "Eyeball X"
+		},
+		{
+			"Id": "ParamEyeBallY",
+			"GroupId": "ParamGroup",
+			"Name": "Eyeball Y"
+		},
+		{
+			"Id": "ParamBrowLY",
+			"GroupId": "ParamGroup",
+			"Name": "BrowL Y"
+		},
+		{
+			"Id": "ParamBrowRY",
+			"GroupId": "ParamGroup",
+			"Name": "BrowR Y"
+		},
+		{
+			"Id": "ParamBrowLAngle",
+			"GroupId": "ParamGroup",
+			"Name": "BrowL Angle"
+		},
+		{
+			"Id": "ParamBrowRAngle",
+			"GroupId": "ParamGroup",
+			"Name": "BrowR Angle"
+		},
+		{
+			"Id": "ParamBrowLForm",
+			"GroupId": "ParamGroup",
+			"Name": "BrowL Form"
+		},
+		{
+			"Id": "ParamBrowRForm",
+			"GroupId": "ParamGroup",
+			"Name": "BrowR Form"
+		},
+		{
+			"Id": "ParamMouthForm",
+			"GroupId": "ParamGroup",
+			"Name": "Mouth Form"
+		},
+		{
+			"Id": "ParamMouthOpenY",
+			"GroupId": "ParamGroup",
+			"Name": "Mouth Open"
+		},
+		{
+			"Id": "ParamCheek",
+			"GroupId": "ParamGroup",
+			"Name": "Cheek"
+		},
+		{
+			"Id": "ParamBreastLClothX",
+			"GroupId": "ParamGroup2",
+			"Name": "Breast L Cloth X"
+		},
+		{
+			"Id": "ParamBreastLClothY",
+			"GroupId": "ParamGroup2",
+			"Name": "Breast L Cloth Y"
+		},
+		{
+			"Id": "ParamBreastRClothX",
+			"GroupId": "ParamGroup2",
+			"Name": "Breast R Cloth X"
+		},
+		{
+			"Id": "ParamBreastRClothY",
+			"GroupId": "ParamGroup2",
+			"Name": "Breast R Cloth Y"
+		},
+		{
+			"Id": "ParamTummyX",
+			"GroupId": "ParamGroup2",
+			"Name": "Tummy X"
+		},
+		{
+			"Id": "ParamTummyY",
+			"GroupId": "ParamGroup2",
+			"Name": "Tummy Y"
+		},
+		{
+			"Id": "ParamBreastLX",
+			"GroupId": "ParamGroup2",
+			"Name": "Breast L X"
+		},
+		{
+			"Id": "ParamBreastLY",
+			"GroupId": "ParamGroup2",
+			"Name": "Breast L Y"
+		},
+		{
+			"Id": "ParamBreastRX",
+			"GroupId": "ParamGroup2",
+			"Name": "Breast R X"
+		},
+		{
+			"Id": "ParamBreastRY",
+			"GroupId": "ParamGroup2",
+			"Name": "Breast R Y"
+		},
+		{
+			"Id": "ParamCamisoleWet",
+			"GroupId": "ParamGroup2",
+			"Name": "CamisoleWet"
+		},
+		{
+			"Id": "ParamCamisoleTransparency",
+			"GroupId": "ParamGroup2",
+			"Name": "CamisoleTransparency"
+		},
+		{
+			"Id": "ParamBreastWet",
+			"GroupId": "ParamGroup2",
+			"Name": "BreastWet"
+		},
+		{
+			"Id": "ParamWet",
+			"GroupId": "ParamGroup2",
+			"Name": "Wet"
+		},
+		{
+			"Id": "ParamBodyAngleX",
+			"GroupId": "ParamGroup3",
+			"Name": "Body X"
+		},
+		{
+			"Id": "ParamBodyAngleY",
+			"GroupId": "ParamGroup3",
+			"Name": "Body Y"
+		},
+		{
+			"Id": "ParamBodyX",
+			"GroupId": "ParamGroup3",
+			"Name": "Body X 2"
+		},
+		{
+			"Id": "ParamBodyAngleZ",
+			"GroupId": "ParamGroup3",
+			"Name": "Body Z"
+		},
+		{
+			"Id": "ParamBreath",
+			"GroupId": "ParamGroup3",
+			"Name": "Breath"
+		},
+		{
+			"Id": "ParamArmL2",
+			"GroupId": "",
+			"Name": "Arm L Up"
+		},
+		{
+			"Id": "ParamArmR2",
+			"GroupId": "",
+			"Name": "Arm R Up"
+		},
+		{
+			"Id": "ParamArmL",
+			"GroupId": "",
+			"Name": "Arm L"
+		},
+		{
+			"Id": "ParamArmR",
+			"GroupId": "",
+			"Name": "Arm R"
+		},
+		{
+			"Id": "ParamLegL2",
+			"GroupId": "",
+			"Name": "Leg L Position"
+		},
+		{
+			"Id": "ParamLegL",
+			"GroupId": "",
+			"Name": "Leg L"
+		},
+		{
+			"Id": "ParamLegLThigh",
+			"GroupId": "",
+			"Name": "Leg L Thigh"
+		},
+		{
+			"Id": "ParamLegR2",
+			"GroupId": "",
+			"Name": "Leg R Position"
+		},
+		{
+			"Id": "ParamLegR",
+			"GroupId": "",
+			"Name": "Leg R"
+		},
+		{
+			"Id": "ParamLegRThigh",
+			"GroupId": "",
+			"Name": "Leg R Thigh"
+		}
+	],
+	"ParameterGroups": [
+		{
+			"Id": "ParamGroup4",
+			"GroupId": "",
+			"Name": "Hand Tracking"
+		},
+		{
+			"Id": "ParamGroup",
+			"GroupId": "",
+			"Name": "Head Part"
+		},
+		{
+			"Id": "ParamGroup2",
+			"GroupId": "",
+			"Name": "Body Physics"
+		},
+		{
+			"Id": "ParamGroup3",
+			"GroupId": "",
+			"Name": "Body Movement"
+		}
+	],
+	"Parts": [
+		{
+			"Id": "HandsOnL",
+			"Name": "HandsOnLeft"
+		},
+		{
+			"Id": "HandsOnR",
+			"Name": "HandsOnRight"
+		},
+		{
+			"Id": "Neck",
+			"Name": "Neck"
+		},
+		{
+			"Id": "Camisole",
+			"Name": "Camisole"
+		},
+		{
+			"Id": "Breasts",
+			"Name": "Breasts"
+		},
+		{
+			"Id": "UpperTorso",
+			"Name": "UpperTorso"
+		},
+		{
+			"Id": "ArmsUp",
+			"Name": "ArmsUp"
+		},
+		{
+			"Id": "Arms2",
+			"Name": "Arms"
+		},
+		{
+			"Id": "Pants",
+			"Name": "Pants"
+		},
+		{
+			"Id": "MainBody",
+			"Name": "MainBody"
+		},
+		{
+			"Id": "Legs",
+			"Name": "Legs"
+		},
+		{
+			"Id": "HandRBottle2",
+			"Name": "HandRBottle"
+		},
+		{
+			"Id": "HandRBottle",
+			"Name": "HandRBottle"
+		},
+		{
+			"Id": "CamisoleWet_Skinning",
+			"Name": "CamisoleWet(Skinning)"
+		},
+		{
+			"Id": "CamisoleBreastShadow_Skinning",
+			"Name": "CamisoleBreastShadow(Skinning)"
+		},
+		{
+			"Id": "CamisoleMain_Skinning",
+			"Name": "CamisoleMain(Skinning)"
+		},
+		{
+			"Id": "CamisoleShade_Skinning",
+			"Name": "CamisoleShade(Skinning)"
+		},
+		{
+			"Id": "CamisoleCloth_Skinning",
+			"Name": "CamisoleCloth(Skinning)"
+		},
+		{
+			"Id": "CamisoleClothOpacity_Skinning",
+			"Name": "CamisoleClothOpacity(Skinning)"
+		},
+		{
+			"Id": "CamisoleShadow",
+			"Name": "CamisoleShadow"
+		},
+		{
+			"Id": "BreastRight",
+			"Name": "BreastRight"
+		},
+		{
+			"Id": "BreastLeft",
+			"Name": "BreastLeft"
+		},
+		{
+			"Id": "RightArmHighlight",
+			"Name": "RightArmHighlight"
+		},
+		{
+			"Id": "LeftArmHighlight",
+			"Name": "LeftArmHighlight"
+		},
+		{
+			"Id": "Shoulder",
+			"Name": "Shoulder"
+		},
+		{
+			"Id": "RightArmHighlight3",
+			"Name": "RightArmHighlight"
+		},
+		{
+			"Id": "LeftArmHighlight3",
+			"Name": "LeftArmHighlight"
+		},
+		{
+			"Id": "Shoulder2",
+			"Name": "Shoulder"
+		},
+		{
+			"Id": "PantsTopShadow_Skinning",
+			"Name": "PantsTopShadow(Skinning)"
+		},
+		{
+			"Id": "NavelHighlight",
+			"Name": "NavelHighlight"
+		},
+		{
+			"Id": "StomachWet",
+			"Name": "StomachWet"
+		},
+		{
+			"Id": "BodyBase_Skinning",
+			"Name": "BodyBase(Skinning)"
+		},
+		{
+			"Id": "LeftLegHighlight",
+			"Name": "LeftLegHighlight"
+		},
+		{
+			"Id": "RightLegHighlight",
+			"Name": "RightLegHighlight"
+		},
+		{
+			"Id": "MiniWaterSplash",
+			"Name": "MiniWaterSplash"
+		},
+		{
+			"Id": "CamisoleMainShadow_Skinning",
+			"Name": "CamisoleMainShadow(Skinning)"
+		},
+		{
+			"Id": "CamisoleClothShadow_Skinning",
+			"Name": "CamisoleClothShadow(Skinning)"
+		},
+		{
+			"Id": "RightBreastHighlight",
+			"Name": "RightBreastHighlight"
+		},
+		{
+			"Id": "LeftBreastHighlight",
+			"Name": "LeftBreastHighlight"
+		}
+	],
+	"CombinedParameters": [
+		[
+			"ParamHandLX",
+			"ParamHandLY"
+		],
+		[
+			"ParamHandRX",
+			"ParamHandRY"
+		],
+		[
+			"ParamBreastLClothX",
+			"ParamBreastLClothY"
+		],
+		[
+			"ParamBreastRClothX",
+			"ParamBreastRClothY"
+		],
+		[
+			"ParamBreastLX",
+			"ParamBreastLY"
+		],
+		[
+			"ParamBreastRX",
+			"ParamBreastRY"
+		]
+	]
+}

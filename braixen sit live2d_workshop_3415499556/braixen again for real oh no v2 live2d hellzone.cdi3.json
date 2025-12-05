@@ -1,0 +1,609 @@
+{
+	"Version": 3,
+	"Parameters": [
+		{
+			"Id": "placeholdersig",
+			"GroupId": "",
+			"Name": "This Live2D model was"
+		},
+		{
+			"Id": "placeholdersig2",
+			"GroupId": "",
+			"Name": "made by Scootzzzzzx"
+		},
+		{
+			"Id": "ParamAngleX",
+			"GroupId": "",
+			"Name": "Angle X"
+		},
+		{
+			"Id": "ParamAngleY",
+			"GroupId": "",
+			"Name": "Angle Y"
+		},
+		{
+			"Id": "ParamAngleZ",
+			"GroupId": "",
+			"Name": "Angle Z"
+		},
+		{
+			"Id": "ParamEyeLOpen",
+			"GroupId": "",
+			"Name": "EyeL Open"
+		},
+		{
+			"Id": "ParamEyeLSmile",
+			"GroupId": "",
+			"Name": "EyeL Smile"
+		},
+		{
+			"Id": "ParamEyeROpen",
+			"GroupId": "",
+			"Name": "EyeR Open"
+		},
+		{
+			"Id": "ParamEyeRSmile",
+			"GroupId": "",
+			"Name": "EyeR Smile"
+		},
+		{
+			"Id": "ParamEyeBallX",
+			"GroupId": "",
+			"Name": "Eyeball X"
+		},
+		{
+			"Id": "ParamEyeBallY",
+			"GroupId": "",
+			"Name": "Eyeball Y"
+		},
+		{
+			"Id": "ParamBrowLY",
+			"GroupId": "",
+			"Name": "BrowL Y"
+		},
+		{
+			"Id": "ParamBrowRY",
+			"GroupId": "",
+			"Name": "BrowR Y"
+		},
+		{
+			"Id": "ParamMouthForm",
+			"GroupId": "",
+			"Name": "Mouth Form"
+		},
+		{
+			"Id": "ParamMouthOpenY",
+			"GroupId": "",
+			"Name": "Mouth Open"
+		},
+		{
+			"Id": "ParamCheek",
+			"GroupId": "",
+			"Name": "Cheek"
+		},
+		{
+			"Id": "ParamBodyAngleX",
+			"GroupId": "",
+			"Name": "Body X"
+		},
+		{
+			"Id": "ParamBodyAngleY",
+			"GroupId": "",
+			"Name": "Body Y"
+		},
+		{
+			"Id": "ParamBodyAngleZ",
+			"GroupId": "",
+			"Name": "Body Z"
+		},
+		{
+			"Id": "ParamBreath",
+			"GroupId": "",
+			"Name": "Breath"
+		},
+		{
+			"Id": "ParamTailFlipToggle",
+			"GroupId": "ParamGroup8",
+			"Name": "tail flip toggle"
+		},
+		{
+			"Id": "ParamStickToggle",
+			"GroupId": "ParamGroup8",
+			"Name": "stick toggle"
+		},
+		{
+			"Id": "ParamBoobToggle",
+			"GroupId": "ParamGroup8",
+			"Name": "boob toggle"
+		},
+		{
+			"Id": "ParamFireToggle",
+			"GroupId": "ParamGroup8",
+			"Name": "fire toggle"
+		},
+		{
+			"Id": "ParamSigToggle",
+			"GroupId": "ParamGroup8",
+			"Name": "signature toggle"
+		},
+		{
+			"Id": "ParamDropShadowToggle",
+			"GroupId": "ParamGroup8",
+			"Name": "drop shadow toggle"
+		},
+		{
+			"Id": "ParamBGToggle",
+			"GroupId": "ParamGroup8",
+			"Name": "bg toggle"
+		},
+		{
+			"Id": "ParamCharLightingToggle",
+			"GroupId": "ParamGroup8",
+			"Name": "char lighting toggle"
+		},
+		{
+			"Id": "ParamHairPhys",
+			"GroupId": "ParamGroup4",
+			"Name": "hair phys"
+		},
+		{
+			"Id": "ParamPupilPhys",
+			"GroupId": "ParamGroup4",
+			"Name": "pupil phys"
+		},
+		{
+			"Id": "ParamPupilPhys2",
+			"GroupId": "ParamGroup4",
+			"Name": "pupil phys2"
+		},
+		{
+			"Id": "ParamChestfluffMidPhys",
+			"GroupId": "ParamGroup4",
+			"Name": "chestfluff mid phys"
+		},
+		{
+			"Id": "ParamShoulderFluffLPhys",
+			"GroupId": "ParamGroup4",
+			"Name": "shoulder fluff L phys"
+		},
+		{
+			"Id": "ParamShoulderFluffRPhys",
+			"GroupId": "ParamGroup4",
+			"Name": "shoulder fluff R phys"
+		},
+		{
+			"Id": "ParamLowerFluffPhysL",
+			"GroupId": "ParamGroup4",
+			"Name": "lower fluff phys L"
+		},
+		{
+			"Id": "ParamLowerFluffPhys2L",
+			"GroupId": "ParamGroup4",
+			"Name": "lower fluff physL2"
+		},
+		{
+			"Id": "ParamLowerFluffPhysR",
+			"GroupId": "ParamGroup4",
+			"Name": "lower fluff phys R"
+		},
+		{
+			"Id": "ParamLowerFluffPhysR2",
+			"GroupId": "ParamGroup4",
+			"Name": "lower fluff physR2"
+		},
+		{
+			"Id": "ParamBoobaX",
+			"GroupId": "ParamGroup4",
+			"Name": "booba x"
+		},
+		{
+			"Id": "ParamBoobaX2",
+			"GroupId": "ParamGroup4",
+			"Name": "booba x2"
+		},
+		{
+			"Id": "ParamBoobaY",
+			"GroupId": "ParamGroup4",
+			"Name": "booba y"
+		},
+		{
+			"Id": "ParamBounceX",
+			"GroupId": "ParamGroup4",
+			"Name": "bounce X"
+		},
+		{
+			"Id": "ParamBounceY",
+			"GroupId": "ParamGroup4",
+			"Name": "bounce Y"
+		},
+		{
+			"Id": "ParamBounceZ",
+			"GroupId": "ParamGroup4",
+			"Name": "bounce Z"
+		},
+		{
+			"Id": "ParamBounceYInput",
+			"GroupId": "ParamGroup4",
+			"Name": "bounce Y input"
+		},
+		{
+			"Id": "ParamBounceYInput2",
+			"GroupId": "ParamGroup4",
+			"Name": "bounce Y Input2"
+		},
+		{
+			"Id": "ParamArmWaveToggle",
+			"GroupId": "ParamGroup4",
+			"Name": "arm wave toggle"
+		},
+		{
+			"Id": "ParamShoulderR",
+			"GroupId": "ParamGroup4",
+			"Name": "ShoulderR"
+		},
+		{
+			"Id": "ParamElbowR",
+			"GroupId": "ParamGroup4",
+			"Name": "ElbowR"
+		},
+		{
+			"Id": "ParamWristR",
+			"GroupId": "ParamGroup4",
+			"Name": "WristR"
+		},
+		{
+			"Id": "ParamFireLoopBase",
+			"GroupId": "ParamGroup4",
+			"Name": "fire_loop_base"
+		},
+		{
+			"Id": "ParamFireLoop",
+			"GroupId": "ParamGroup4",
+			"Name": "fire_loop"
+		},
+		{
+			"Id": "ParamFirePhys",
+			"GroupId": "ParamGroup4",
+			"Name": "fire phys"
+		},
+		{
+			"Id": "ParamFirePhys2",
+			"GroupId": "ParamGroup4",
+			"Name": "fire phys2"
+		},
+		{
+			"Id": "Param_Angle_Rotation",
+			"GroupId": "ParamGroup",
+			"Name": "[0]cheekfuzz phys L"
+		},
+		{
+			"Id": "Param_Angle_Rotation2",
+			"GroupId": "ParamGroup",
+			"Name": "[1]cheekfuzz phys L"
+		},
+		{
+			"Id": "Param_Angle_Rotation3",
+			"GroupId": "ParamGroup",
+			"Name": "[2]cheekfuzz phys L"
+		},
+		{
+			"Id": "Param_Angle_Rotation6",
+			"GroupId": "ParamGroup",
+			"Name": "[0]cheekfuzz phys R"
+		},
+		{
+			"Id": "Param_Angle_Rotation5",
+			"GroupId": "ParamGroup",
+			"Name": "[1]cheekfuzz phys R"
+		},
+		{
+			"Id": "Param_Angle_Rotation4",
+			"GroupId": "ParamGroup",
+			"Name": "[2]cheekfuzz phys R"
+		},
+		{
+			"Id": "ParamEarL",
+			"GroupId": "ParamGroup2",
+			"Name": "ear L"
+		},
+		{
+			"Id": "ParamEarFoldL",
+			"GroupId": "ParamGroup2",
+			"Name": "ear fold L"
+		},
+		{
+			"Id": "ParamEarPhysL1",
+			"GroupId": "ParamGroup2",
+			"Name": "ear phys L1"
+		},
+		{
+			"Id": "ParamEarPhysL2",
+			"GroupId": "ParamGroup2",
+			"Name": "ear phys L2"
+		},
+		{
+			"Id": "ParamEarR",
+			"GroupId": "ParamGroup2",
+			"Name": "ear R"
+		},
+		{
+			"Id": "ParamEarFoldR",
+			"GroupId": "ParamGroup2",
+			"Name": "ear fold R"
+		},
+		{
+			"Id": "ParamEarPhysR1",
+			"GroupId": "ParamGroup2",
+			"Name": "ear phys R1"
+		},
+		{
+			"Id": "ParamEarPhysR2",
+			"GroupId": "ParamGroup2",
+			"Name": "ear phys R2"
+		},
+		{
+			"Id": "Param_Angle_Rotation7",
+			"GroupId": "ParamGroup3",
+			"Name": "[0]ear fuzz"
+		},
+		{
+			"Id": "Param_Angle_Rotation8",
+			"GroupId": "ParamGroup3",
+			"Name": "[1]ear fuzz"
+		},
+		{
+			"Id": "Param_Angle_Rotation9",
+			"GroupId": "ParamGroup3",
+			"Name": "[2]ear fuzz"
+		},
+		{
+			"Id": "Param_Angle_Rotation10",
+			"GroupId": "ParamGroup3",
+			"Name": "[0]ear fuzz"
+		},
+		{
+			"Id": "Param_Angle_Rotation11",
+			"GroupId": "ParamGroup3",
+			"Name": "[1]ear fuzz"
+		},
+		{
+			"Id": "Param_Angle_Rotation12",
+			"GroupId": "ParamGroup3",
+			"Name": "[2]ear fuzz"
+		},
+		{
+			"Id": "Param_Angle_Rotation22",
+			"GroupId": "ParamGroup5",
+			"Name": "[0]tail phys"
+		},
+		{
+			"Id": "Param_Angle_Rotation23",
+			"GroupId": "ParamGroup5",
+			"Name": "[1]tail phys"
+		},
+		{
+			"Id": "Param_Angle_Rotation24",
+			"GroupId": "ParamGroup5",
+			"Name": "[2]tail phys"
+		},
+		{
+			"Id": "Param_Angle_Rotation25",
+			"GroupId": "ParamGroup5",
+			"Name": "[3]tail phys"
+		},
+		{
+			"Id": "Param_Angle_Rotation29",
+			"GroupId": "ParamGroup6",
+			"Name": "[0]leg L phys"
+		},
+		{
+			"Id": "Param_Angle_Rotation30",
+			"GroupId": "ParamGroup6",
+			"Name": "[1]leg L phys"
+		},
+		{
+			"Id": "Param_Angle_Rotation31",
+			"GroupId": "ParamGroup6",
+			"Name": "[2]leg L phys"
+		},
+		{
+			"Id": "Param_Angle_Rotation26",
+			"GroupId": "ParamGroup7",
+			"Name": "[0]leg R phys"
+		},
+		{
+			"Id": "Param_Angle_Rotation27",
+			"GroupId": "ParamGroup7",
+			"Name": "[1]leg R phys"
+		},
+		{
+			"Id": "Param_Angle_Rotation28",
+			"GroupId": "ParamGroup7",
+			"Name": "[2]leg R phys"
+		}
+	],
+	"ParameterGroups": [
+		{
+			"Id": "ParamGroup8",
+			"GroupId": "",
+			"Name": "toggles"
+		},
+		{
+			"Id": "ParamGroup4",
+			"GroupId": "",
+			"Name": "other phys"
+		},
+		{
+			"Id": "ParamGroup",
+			"GroupId": "",
+			"Name": "cheekfuzz phys"
+		},
+		{
+			"Id": "ParamGroup2",
+			"GroupId": "",
+			"Name": "ear stuff"
+		},
+		{
+			"Id": "ParamGroup3",
+			"GroupId": "",
+			"Name": "ear fuzz"
+		},
+		{
+			"Id": "ParamGroup5",
+			"GroupId": "",
+			"Name": "tail phys"
+		},
+		{
+			"Id": "ParamGroup6",
+			"GroupId": "",
+			"Name": "leg L phys"
+		},
+		{
+			"Id": "ParamGroup7",
+			"GroupId": "",
+			"Name": "leg R phys"
+		}
+	],
+	"Parts": [
+		{
+			"Id": "Part2",
+			"Name": "braixen again for real oh no Fire.psd"
+		},
+		{
+			"Id": "Part",
+			"Name": "braixen again for real oh no v2 live2d hellzone wavingarm.psd"
+		},
+		{
+			"Id": "stick",
+			"Name": "stick"
+		},
+		{
+			"Id": "Folder13",
+			"Name": "Folder13"
+		},
+		{
+			"Id": "stickfidfaz",
+			"Name": "stickfireC2"
+		},
+		{
+			"Id": "Part4",
+			"Name": "stickfireC"
+		},
+		{
+			"Id": "Part5",
+			"Name": "stickfireB2"
+		},
+		{
+			"Id": "Part3",
+			"Name": "stickfireB"
+		},
+		{
+			"Id": "stickfireA",
+			"Name": "stickfireA"
+		},
+		{
+			"Id": "stick_guides",
+			"Name": "stick guides"
+		},
+		{
+			"Id": "head",
+			"Name": "head"
+		},
+		{
+			"Id": "body",
+			"Name": "body"
+		},
+		{
+			"Id": "tailflipped",
+			"Name": "tailflipped"
+		},
+		{
+			"Id": "tailstuff",
+			"Name": "tailstuff"
+		},
+		{
+			"Id": "fire_mask_blobs5",
+			"Name": "fire_mask_blobs"
+		},
+		{
+			"Id": "fire_mask_blobs3",
+			"Name": "fire_mask_blobs"
+		},
+		{
+			"Id": "fire_mask_blobs4",
+			"Name": "fire_mask_blobs"
+		},
+		{
+			"Id": "fire_mask_blobs2",
+			"Name": "fire_mask_blobs"
+		},
+		{
+			"Id": "fire_mask_blobs",
+			"Name": "fire_mask_blobs"
+		},
+		{
+			"Id": "browstuff",
+			"Name": "browstuff"
+		},
+		{
+			"Id": "eyes2",
+			"Name": "eyes2"
+		},
+		{
+			"Id": "eyes",
+			"Name": "eyes"
+		},
+		{
+			"Id": "mouth",
+			"Name": "mouth"
+		},
+		{
+			"Id": "cheekfuzzstuff",
+			"Name": "cheekfuzzstuff"
+		},
+		{
+			"Id": "ears2",
+			"Name": "ears2"
+		},
+		{
+			"Id": "ears",
+			"Name": "ears"
+		},
+		{
+			"Id": "fluffs",
+			"Name": "fluffs"
+		},
+		{
+			"Id": "legs",
+			"Name": "legs"
+		},
+		{
+			"Id": "tailstuff2",
+			"Name": "tailstuff2"
+		},
+		{
+			"Id": "tail_Skinning",
+			"Name": "tail(Skinning)"
+		},
+		{
+			"Id": "cheekfuzz2_Skinning",
+			"Name": "cheekfuzz2(Skinning)"
+		},
+		{
+			"Id": "cheekfuzz_Skinning",
+			"Name": "cheekfuzz(Skinning)"
+		},
+		{
+			"Id": "ear_fuzz2_Skinning",
+			"Name": "ear_fuzz(Skinning)"
+		},
+		{
+			"Id": "ear_fuzz_Skinning",
+			"Name": "ear_fuzz(Skinning)"
+		},
+		{
+			"Id": "tail_Skinning2",
+			"Name": "tail(Skinning)"
+		}
+	]
+}

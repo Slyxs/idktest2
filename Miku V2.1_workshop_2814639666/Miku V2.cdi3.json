@@ -1,0 +1,447 @@
+{
+	"Version": 3,
+	"Parameters": [
+		{
+			"Id": "ParamAngleX",
+			"GroupId": "ParamGroup5",
+			"Name": "Angle X"
+		},
+		{
+			"Id": "ParamAngleY",
+			"GroupId": "ParamGroup5",
+			"Name": "Angle Y"
+		},
+		{
+			"Id": "ParamAngleZ",
+			"GroupId": "ParamGroup5",
+			"Name": "Angle Z"
+		},
+		{
+			"Id": "ParamEyeROpen",
+			"GroupId": "ParamGroup2",
+			"Name": "EyeR Open"
+		},
+		{
+			"Id": "ParamEyeRSmile",
+			"GroupId": "ParamGroup2",
+			"Name": "EyeR Smile"
+		},
+		{
+			"Id": "ParamEyeLOpen",
+			"GroupId": "ParamGroup2",
+			"Name": "EyeL Open"
+		},
+		{
+			"Id": "ParamEyeLSmile",
+			"GroupId": "ParamGroup2",
+			"Name": "EyeL Smile"
+		},
+		{
+			"Id": "ParamEyeBallX",
+			"GroupId": "ParamGroup2",
+			"Name": "Eyeball X"
+		},
+		{
+			"Id": "ParamEyeBallY",
+			"GroupId": "ParamGroup2",
+			"Name": "Eyeball Y"
+		},
+		{
+			"Id": "ParamBrowRAngle",
+			"GroupId": "ParamGroup3",
+			"Name": "BrowR Angle"
+		},
+		{
+			"Id": "ParamBrowRForm",
+			"GroupId": "ParamGroup3",
+			"Name": "BrowR Form"
+		},
+		{
+			"Id": "ParamBrowRX",
+			"GroupId": "ParamGroup3",
+			"Name": "BrowR X"
+		},
+		{
+			"Id": "ParamBrowRY",
+			"GroupId": "ParamGroup3",
+			"Name": "BrowR Y"
+		},
+		{
+			"Id": "ParamBrowLAngle",
+			"GroupId": "ParamGroup3",
+			"Name": "BrowL Angle"
+		},
+		{
+			"Id": "ParamBrowLForm",
+			"GroupId": "ParamGroup3",
+			"Name": "BrowL Form"
+		},
+		{
+			"Id": "ParamBrowLX",
+			"GroupId": "ParamGroup3",
+			"Name": "BrowL X"
+		},
+		{
+			"Id": "ParamBrowLY",
+			"GroupId": "ParamGroup3",
+			"Name": "BrowL Y"
+		},
+		{
+			"Id": "ParamMouthForm",
+			"GroupId": "ParamGroup4",
+			"Name": "Mouth Form"
+		},
+		{
+			"Id": "ParamMouthOpenY",
+			"GroupId": "ParamGroup4",
+			"Name": "Mouth Open"
+		},
+		{
+			"Id": "ParamMouthX",
+			"GroupId": "ParamGroup4",
+			"Name": "Mouth X"
+		},
+		{
+			"Id": "ParamCheek",
+			"GroupId": "",
+			"Name": "Cheek"
+		},
+		{
+			"Id": "ParamBodyAngleX",
+			"GroupId": "ParamGroup",
+			"Name": "Body X"
+		},
+		{
+			"Id": "ParamBodyAngleY",
+			"GroupId": "ParamGroup",
+			"Name": "Body Y"
+		},
+		{
+			"Id": "ParamBodyAngleZ",
+			"GroupId": "ParamGroup",
+			"Name": "Body Z"
+		},
+		{
+			"Id": "ParamBreath",
+			"GroupId": "",
+			"Name": "Breathing"
+		},
+		{
+			"Id": "ParamAccessorieR",
+			"GroupId": "ParamGroup6",
+			"Name": "AccessorieR"
+		},
+		{
+			"Id": "ParamExtraSkirt",
+			"GroupId": "ParamGroup6",
+			"Name": "Extra Skirt"
+		},
+		{
+			"Id": "ParamAccessorieL",
+			"GroupId": "ParamGroup6",
+			"Name": "AccessorieL"
+		},
+		{
+			"Id": "ParamSkirt",
+			"GroupId": "ParamGroup6",
+			"Name": "Skirt"
+		},
+		{
+			"Id": "ParamRLowerArm",
+			"GroupId": "ParamGroup6",
+			"Name": "R Lower Arm"
+		},
+		{
+			"Id": "ParamLLowerArm",
+			"GroupId": "ParamGroup6",
+			"Name": "L Lower Arm"
+		},
+		{
+			"Id": "ParamHairFront",
+			"GroupId": "ParamGroup7",
+			"Name": "Hair Move Front"
+		},
+		{
+			"Id": "ParamHairBack",
+			"GroupId": "ParamGroup7",
+			"Name": "Hair Move Back"
+		},
+		{
+			"Id": "ParamRSideHair",
+			"GroupId": "ParamGroup7",
+			"Name": "R Side Hair"
+		},
+		{
+			"Id": "ParamLSideHair",
+			"GroupId": "ParamGroup7",
+			"Name": "L Side Hair"
+		},
+		{
+			"Id": "Param_Angle_Rotation10",
+			"GroupId": "ParamGroup8",
+			"Name": "[0]R Twintail"
+		},
+		{
+			"Id": "Param_Angle_Rotation11",
+			"GroupId": "ParamGroup8",
+			"Name": "[1]R Twintail"
+		},
+		{
+			"Id": "Param_Angle_Rotation12",
+			"GroupId": "ParamGroup8",
+			"Name": "[2]R Twintail"
+		},
+		{
+			"Id": "Param_Angle_Rotation13",
+			"GroupId": "ParamGroup8",
+			"Name": "[3]R Twintail"
+		},
+		{
+			"Id": "Param_Angle_Rotation14",
+			"GroupId": "ParamGroup9",
+			"Name": "[0]L Twintail"
+		},
+		{
+			"Id": "Param_Angle_Rotation15",
+			"GroupId": "ParamGroup9",
+			"Name": "[1]L Twintail"
+		},
+		{
+			"Id": "Param_Angle_Rotation16",
+			"GroupId": "ParamGroup9",
+			"Name": "[2]L Twintail"
+		},
+		{
+			"Id": "Param_Angle_Rotation17",
+			"GroupId": "ParamGroup9",
+			"Name": "[3]L Twintail"
+		},
+		{
+			"Id": "ParamBreast",
+			"GroupId": "",
+			"Name": "Breast"
+		},
+		{
+			"Id": "Param_Angle_Rotation7",
+			"GroupId": "ParamGroup10",
+			"Name": "[0]Tie"
+		},
+		{
+			"Id": "Param_Angle_Rotation18",
+			"GroupId": "ParamGroup10",
+			"Name": "[1]Tie"
+		},
+		{
+			"Id": "Param_Angle_Rotation19",
+			"GroupId": "ParamGroup10",
+			"Name": "[2]Tie"
+		},
+		{
+			"Id": "Param_Angle_Rotation20",
+			"GroupId": "ParamGroup10",
+			"Name": "[3]Tie"
+		},
+		{
+			"Id": "Param_Angle_Rotation27",
+			"GroupId": "ParamGroup11",
+			"Name": "[1]R Hand"
+		},
+		{
+			"Id": "Param_Angle_Rotation28",
+			"GroupId": "ParamGroup11",
+			"Name": "[2]R Hand"
+		},
+		{
+			"Id": "Param_Angle_Rotation30",
+			"GroupId": "ParamGroup12",
+			"Name": "[1]L Hand"
+		},
+		{
+			"Id": "Param_Angle_Rotation31",
+			"GroupId": "ParamGroup12",
+			"Name": "[2]L Hand"
+		}
+	],
+	"ParameterGroups": [
+		{
+			"Id": "ParamGroup5",
+			"GroupId": "",
+			"Name": "Head"
+		},
+		{
+			"Id": "ParamGroup2",
+			"GroupId": "",
+			"Name": "Eyes"
+		},
+		{
+			"Id": "ParamGroup3",
+			"GroupId": "",
+			"Name": "Brows"
+		},
+		{
+			"Id": "ParamGroup4",
+			"GroupId": "",
+			"Name": "Mouth"
+		},
+		{
+			"Id": "ParamGroup",
+			"GroupId": "",
+			"Name": "Body"
+		},
+		{
+			"Id": "ParamGroup6",
+			"GroupId": "",
+			"Name": "Accessories"
+		},
+		{
+			"Id": "ParamGroup7",
+			"GroupId": "",
+			"Name": "Hair"
+		},
+		{
+			"Id": "ParamGroup8",
+			"GroupId": "",
+			"Name": "R Twintail"
+		},
+		{
+			"Id": "ParamGroup9",
+			"GroupId": "",
+			"Name": "L Twintail"
+		},
+		{
+			"Id": "ParamGroup10",
+			"GroupId": "",
+			"Name": "Tie"
+		},
+		{
+			"Id": "ParamGroup11",
+			"GroupId": "",
+			"Name": "R Hand"
+		},
+		{
+			"Id": "ParamGroup12",
+			"GroupId": "",
+			"Name": "L Hand"
+		}
+	],
+	"Parts": [
+		{
+			"Id": "Part19",
+			"Name": "Miku.psd (Corresponding layer not found)"
+		},
+		{
+			"Id": "Miku",
+			"Name": "Miku"
+		},
+		{
+			"Id": "Miku2",
+			"Name": "Miku"
+		},
+		{
+			"Id": "Tie_Skinning",
+			"Name": "Tie(Skinning)"
+		},
+		{
+			"Id": "Shirt",
+			"Name": "Shirt"
+		},
+		{
+			"Id": "Part",
+			"Name": "R Leg"
+		},
+		{
+			"Id": "Part2",
+			"Name": "L Leg"
+		},
+		{
+			"Id": "Part3",
+			"Name": "R Arm"
+		},
+		{
+			"Id": "Part4",
+			"Name": "L Arm"
+		},
+		{
+			"Id": "Head",
+			"Name": "Head"
+		},
+		{
+			"Id": "Part8",
+			"Name": "R Twintail"
+		},
+		{
+			"Id": "Part9",
+			"Name": "L Twintail"
+		},
+		{
+			"Id": "Head3",
+			"Name": "Head"
+		},
+		{
+			"Id": "Skirt",
+			"Name": "Skirt"
+		},
+		{
+			"Id": "ArtMesh14_Skinning",
+			"Name": "R Hand(Skinning)"
+		},
+		{
+			"Id": "ArtMesh18_Skinning",
+			"Name": "L Hand(Skinning)"
+		},
+		{
+			"Id": "Brows",
+			"Name": "Brows"
+		},
+		{
+			"Id": "Part5",
+			"Name": "Front Hair"
+		},
+		{
+			"Id": "Cheek",
+			"Name": "Cheek"
+		},
+		{
+			"Id": "Part6",
+			"Name": "Right Eye"
+		},
+		{
+			"Id": "Part7",
+			"Name": "Left Eye"
+		},
+		{
+			"Id": "Mouth",
+			"Name": "Mouth"
+		},
+		{
+			"Id": "ArtMesh56_Skinning",
+			"Name": "R Twintail(Skinning)"
+		},
+		{
+			"Id": "ArtMesh58_Skinning",
+			"Name": "L Twintail(Skinning)"
+		},
+		{
+			"Id": "Part14",
+			"Name": "Front Hair"
+		}
+	],
+	"CombinedParameters": [
+		[
+			"ParamAngleX",
+			"ParamAngleY"
+		],
+		[
+			"ParamEyeBallX",
+			"ParamEyeBallY"
+		],
+		[
+			"ParamBrowRX",
+			"ParamBrowRY"
+		],
+		[
+			"ParamBrowLX",
+			"ParamBrowLY"
+		]
+	]
+}

@@ -11,14 +11,14 @@
     "ModelSaveMetadata": {
         "LastSavedVTubeStudioVersion": "1.32.67",
         "LastSavedPlatform": "Steam",
-        "LastSavedDateUTC": "Friday, 05 December 2025, 03:17:18",
-        "LastSavedDateLocalTime": "Thursday, 04 December 2025, 19:17:18",
-        "LastSavedDateUnixMillisecondTimestamp": "1764904638280"
+        "LastSavedDateUTC": "Friday, 05 December 2025, 03:47:29",
+        "LastSavedDateLocalTime": "Thursday, 04 December 2025, 19:47:29",
+        "LastSavedDateUnixMillisecondTimestamp": "1764906449138"
     },
     "SavedModelPosition": {
         "Position": {
-            "x": -4.47667932510376,
-            "y": -66.96278381347656,
+            "x": 0.0,
+            "y": 0.0,
             "z": 0.0
         },
         "Rotation": {
@@ -28,8 +28,8 @@
             "w": 1.0
         },
         "Scale": {
-            "x": 1.9201031923294068,
-            "y": 1.9201031923294068,
+            "x": 1.0,
+            "y": 1.0,
             "z": 1.0
         }
     },

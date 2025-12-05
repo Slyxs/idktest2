@@ -1,0 +1,32 @@
+{
+	"Type": "Live2D Expression",
+	"FadeInTime": 0.2,
+	"FadeOutTime": 0.2,
+	"Parameters": [
+		{
+			"Id": "Param_SingleGlassShow",
+			"Value": 1,
+			"Blend": "Add"
+		},
+		{
+			"Id": "Param_TapeShow",
+			"Value": -1,
+			"Blend": "Add"
+		},
+		{
+			"Id": "Param_Glass_SHow",
+			"Value": -1,
+			"Blend": "Add"
+		},
+		{
+			"Id": "Param_BreadShow",
+			"Value": 1,
+			"Blend": "Add"
+		},
+		{
+			"Id": "Param_ZbjHatShow",
+			"Value": 0,
+			"Blend": "Add"
+		}
+	]
+}

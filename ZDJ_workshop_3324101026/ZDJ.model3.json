@@ -1,0 +1,28 @@
+{
+	"Version": 3,
+	"FileReferences": {
+		"Moc": "ZDJ.moc3",
+		"Textures": [
+			"ZDJ.2048/texture_00.png",
+			"ZDJ.2048/texture_01.png",
+			"ZDJ.2048/texture_02.png"
+		],
+		"Physics": "ZDJ.physics3.json",
+		"DisplayInfo": "ZDJ.cdi3.json"
+	},
+	"Groups": [
+		{
+			"Target": "Parameter",
+			"Name": "EyeBlink",
+			"Ids": [
+				"ParamEyeLOpen",
+				"ParamEyeROpen"
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Name": "LipSync",
+			"Ids": []
+		}
+	]
+}

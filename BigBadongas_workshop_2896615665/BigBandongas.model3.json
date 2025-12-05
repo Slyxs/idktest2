@@ -1,0 +1,53 @@
+{
+	"Version": 3,
+	"FileReferences": {
+		"Moc": "BigBandongas.moc3",
+		"Textures": [
+			"BigBandongas.4096/texture_00.png",
+			"BigBandongas.4096/texture_01.png",
+			"BigBandongas.4096/texture_02.png"
+		],
+		"Physics": "BigBandongas.physics3.json",
+		"DisplayInfo": "BigBandongas.cdi3.json",
+		"Expressions": [
+			{
+				"Name": "CamisoleTransparency",
+				"File": "expressions/CamisoleTransparency.exp3.json"
+			},
+			{
+				"Name": "HandR Bottle",
+				"File": "expressions/HandR Bottle.exp3.json"
+			},
+			{
+				"Name": "WetStomach",
+				"File": "expressions/WetStomach.exp3.json"
+			}
+		],
+		"Motions": {
+			"": [
+				{
+					"File": "motions/Bottle dropped.motion3.json"
+				},
+				{
+					"File": "motions/Unwet.motion3.json"
+				},
+				{
+					"File": "motions/Wet only.motion3.json"
+				}
+			]
+		}
+	},
+	"Groups": [
+		{
+			"Target": "Parameter",
+			"Name": "LipSync",
+			"Ids": []
+		},
+		{
+			"Target": "Parameter",
+			"Name": "EyeBlink",
+			"Ids": []
+		}
+	],
+	"HitAreas": []
+}

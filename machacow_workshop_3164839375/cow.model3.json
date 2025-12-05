@@ -1,0 +1,24 @@
+{
+	"Version": 3,
+	"FileReferences": {
+		"Moc": "cow.moc3",
+		"Textures": [
+			"cow.4096/texture_00.png",
+			"cow.4096/texture_01.png"
+		],
+		"Physics": "cow.physics3.json",
+		"DisplayInfo": "cow.cdi3.json"
+	},
+	"Groups": [
+		{
+			"Target": "Parameter",
+			"Name": "EyeBlink",
+			"Ids": []
+		},
+		{
+			"Target": "Parameter",
+			"Name": "LipSync",
+			"Ids": []
+		}
+	]
+}

@@ -1,0 +1,23 @@
+{
+	"Version": 3,
+	"FileReferences": {
+		"Moc": "bishop and thalian live2d mk2 lycanroc.moc3",
+		"Textures": [
+			"bishop and thalian live2d mk2 lycanroc.8192/texture_00.png"
+		],
+		"Physics": "bishop and thalian live2d mk2 lycanroc.physics3.json",
+		"DisplayInfo": "bishop and thalian live2d mk2 lycanroc.cdi3.json"
+	},
+	"Groups": [
+		{
+			"Target": "Parameter",
+			"Name": "LipSync",
+			"Ids": []
+		},
+		{
+			"Target": "Parameter",
+			"Name": "EyeBlink",
+			"Ids": []
+		}
+	]
+}

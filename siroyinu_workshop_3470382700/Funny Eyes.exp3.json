@@ -1,0 +1,20 @@
+{
+    "Type": "Live2D Expression",
+    "Parameters": [
+        {
+            "Id": "SparklyEyesSwitchParam",
+            "Value": 0.0,
+            "Blend": "Add"
+        },
+        {
+            "Id": "HeartEyesParam",
+            "Value": 0.0,
+            "Blend": "Add"
+        },
+        {
+            "Id": "FunnyEyesParam",
+            "Value": 1.0,
+            "Blend": "Add"
+        }
+    ]
+}

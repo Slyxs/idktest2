@@ -1,0 +1,25 @@
+{
+    "Type": "Live2D Expression",
+    "Parameters": [
+        {
+            "Id": "ParamCamisoleWet",
+            "Value": 1.0,
+            "Blend": "Add"
+        },
+        {
+            "Id": "ParamCamisoleTransparency",
+            "Value": 1.0,
+            "Blend": "Add"
+        },
+        {
+            "Id": "ParamBreastWet",
+            "Value": 1.0,
+            "Blend": "Add"
+        },
+        {
+            "Id": "ParamWet",
+            "Value": 1.0,
+            "Blend": "Add"
+        }
+    ]
+}

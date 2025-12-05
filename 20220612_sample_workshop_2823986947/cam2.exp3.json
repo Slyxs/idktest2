@@ -1,0 +1,20 @@
+{
+    "Type": "Live2D Expression",
+    "Parameters": [
+        {
+            "Id": "ParamCameraY",
+            "Value": "9.96966",
+            "Blend": "Add"
+        },
+        {
+            "Id": "Param3",
+            "Value": "1.68454",
+            "Blend": "Add"
+        },
+        {
+            "Id": "Param4",
+            "Value": "0",
+            "Blend": "Add"
+        }
+    ]
+}

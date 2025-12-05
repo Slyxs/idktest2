@@ -1,0 +1,25 @@
+{
+	"Version": 3,
+	"FileReferences": {
+		"Moc": "braixen again for real oh no v2 live2d hellzone.moc3",
+		"Textures": [
+			"braixen again for real oh no v2 live2d hellzone.8192/texture_00.png",
+			"braixen again for real oh no v2 live2d hellzone.8192/texture_01.png",
+			"braixen again for real oh no v2 live2d hellzone.8192/texture_02.png"
+		],
+		"Physics": "braixen again for real oh no v2 live2d hellzone.physics3.json",
+		"DisplayInfo": "braixen again for real oh no v2 live2d hellzone.cdi3.json"
+	},
+	"Groups": [
+		{
+			"Target": "Parameter",
+			"Name": "LipSync",
+			"Ids": []
+		},
+		{
+			"Target": "Parameter",
+			"Name": "EyeBlink",
+			"Ids": []
+		}
+	]
+}

@@ -1,0 +1,27 @@
+{
+	"Version": 3,
+	"FileReferences": {
+		"Moc": "结城希亜.moc3",
+		"Textures": [
+			"结城希亜.2048/texture_00.png",
+			"结城希亜.2048/texture_01.png"
+		],
+		"Physics": "结城希亜.physics3.json",
+		"DisplayInfo": "结城希亜.cdi3.json"
+	},
+	"Groups": [
+		{
+			"Target": "Parameter",
+			"Name": "LipSync",
+			"Ids": []
+		},
+		{
+			"Target": "Parameter",
+			"Name": "EyeBlink",
+			"Ids": [
+				"ParamEyeLOpen",
+				"ParamEyeROpen"
+			]
+		}
+	]
+}
